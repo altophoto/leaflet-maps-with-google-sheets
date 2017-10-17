@@ -395,7 +395,7 @@ $(window).on('load', function() {
         return div;
       };
 
-//      polygonsLegend.addTo(map);
+      polygonsLegend.addTo(map);
       allPolygonLegends.push(polygonsLegend);
 
       p++;
@@ -758,7 +758,7 @@ $(window).on('load', function() {
   /**
    * Adds polylines to the map
    */
-/*
+
   function processPolylines(p) {
     if (!p || p.length == 0) return;
 
@@ -836,7 +836,6 @@ $(window).on('load', function() {
     }
   }
 
-*/
   function initIntroPopup(info, coordinates) {
     // This is a pop-up for mobile device
     if (window.matchMedia("only screen and (max-width: 760px)").matches) {
