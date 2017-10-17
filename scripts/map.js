@@ -388,17 +388,19 @@ $(window).on('load', function() {
         }
 
         content += '<label><input type="radio" name="prop" value="' + p + ';-1"> Off</label></form><div class="polygons-legend-scale">';
-
+/*
         var div = L.DomUtil.create('div', 'leaflet-control leaflet-control-custom leaflet-bar ladder polygons-legend' + p);
         div.innerHTML = content;
         div.innerHTML += '</div>';
         return div;
+*/
       };
-
+/*
       polygonsLegend.addTo(map);
       allPolygonLegends.push(polygonsLegend);
 
       p++;
+*/
     }
 
     // Generate polygon labels layers
