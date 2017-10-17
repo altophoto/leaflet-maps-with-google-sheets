@@ -262,7 +262,7 @@ $(window).on('load', function() {
     completePoints = true;
     return group;
   }
-
+/*
   var polygon = 0; // current active polygon
   var layer = 0; // number representing current layer among layers in legend
 
@@ -388,19 +388,19 @@ $(window).on('load', function() {
         }
 
         content += '<label><input type="radio" name="prop" value="' + p + ';-1"> Off</label></form><div class="polygons-legend-scale">';
-/*
+
         var div = L.DomUtil.create('div', 'leaflet-control leaflet-control-custom leaflet-bar ladder polygons-legend' + p);
         div.innerHTML = content;
         div.innerHTML += '</div>';
         return div;
-*/
+
       };
-/*
+
       polygonsLegend.addTo(map);
       allPolygonLegends.push(polygonsLegend);
 
       p++;
-*/
+
     }
 
     // Generate polygon labels layers
@@ -610,7 +610,7 @@ $(window).on('load', function() {
       i++;
       polygonSheets++;
     }
-
+*/
     document.title = getSetting('_mapTitle');
     addBaseMap();
 
@@ -626,7 +626,7 @@ $(window).on('load', function() {
     }
 
     centerAndZoomMap(group);
-
+/*
     // Add polylines
     var polylines = mapData.sheets(constants.polylinesSheetName);
     if (polylines && polylines.elements.length > 0) {
@@ -641,7 +641,7 @@ $(window).on('load', function() {
     } else {
       completePolygons = true;
     }
-
+*/
     // Add Mapzen search control
     if (getSetting('_mapSearch') !== 'off') {
       L.control.geocoder(getSetting('_mapSearchKey'), {
@@ -691,17 +691,17 @@ $(window).on('load', function() {
     showMap();
 
     function showMap() {
-      if (completePoints && completePolylines && completePolygons) {
+      if (completePoints /*&& completePolylines && completePolygons*/) {
         $('.ladder h6').append('<span class="legend-arrow"><i class="fa fa-chevron-down"></i></span>');
         $('.ladder h6').addClass('minimize');
-
+/*
         for (i in allPolygonLegends) {
           if (getPolygonSetting(i, '_polygonsLegendIcon') != '') {
             $('.polygons-legend' + i + ' h6').prepend(
               '<span class="legend-icon"><i class="fa ' + getPolygonSetting(i, '_polygonsLegendIcon') + '"></i></span>');
           }
         }
-
+*/
         $('.ladder h6').click(function() {
           if ($(this).hasClass('minimize')) {
             $('.ladder h6').addClass('minimize');
@@ -727,11 +727,12 @@ $(window).on('load', function() {
         if (getSetting('_introPopupText') != '') {
           initIntroPopup(getSetting('_introPopupText'), map.getCenter());
         };
-
+/*
         togglePolygonLabels();
       } else {
         setTimeout(showMap, 50);
       }
+*/
     }
   }
 
@@ -757,9 +758,9 @@ $(window).on('load', function() {
   }
 
 
-  /**
+  /*
    * Adds polylines to the map
-   */
+   
 
   function processPolylines(p) {
     if (!p || p.length == 0) return;
@@ -837,7 +838,7 @@ $(window).on('load', function() {
       polylinesLegend.addTo(map);
     }
   }
-
+*/
   function initIntroPopup(info, coordinates) {
     // This is a pop-up for mobile device
     if (window.matchMedia("only screen and (max-width: 760px)").matches) {
@@ -857,9 +858,9 @@ $(window).on('load', function() {
       .openOn(map);
   }
 
-  /**
+  /*
    * Turns on and off polygon text labels depending on current map zoom
-   */
+   
   function togglePolygonLabels() {
     for (i in allTextLabels) {
       if (map.getZoom() <= tryPolygonSetting(i, '_polygonLabelZoomLevel', 9)) {
@@ -871,7 +872,7 @@ $(window).on('load', function() {
       }
     }
   }
-
+*/
   /**
    * Changes map attribution (author, GitHub repo, email etc.) in bottom-right
    */
@@ -921,11 +922,11 @@ $(window).on('load', function() {
   /**
    * Returns the value of a setting s
    * getSetting(s) is equivalent to documentSettings[constants.s]
-   */
+   
   function getPolygonSetting(p, s) {
     return polygonSettings[p][constants[s]];
   }
-
+*/
   /**
    * Returns the value of setting named s from constants.js
    * or def if setting is either not set or does not exist
@@ -937,13 +938,13 @@ $(window).on('load', function() {
     if (!s || s.trim() === '') { return def; }
     return s;
   }
-
+/*
   function tryPolygonSetting(p, s, def) {
     s = getPolygonSetting(p, s);
     if (!s || s.trim() === '') { return def; }
     return s;
   }
-
+*/
   /**
    * Triggers the load of the spreadsheet and map creation
    */
@@ -982,10 +983,10 @@ $(window).on('load', function() {
     }
   }
 
-  /**
+  /*
    * Reformulates polygonSettings as a dictionary, e.g.
    * {"webpageTitle": "Leaflet Boilerplate", "infoPopupText": "Stuff"}
-   */
+   
   function createPolygonSettings(settings) {
     p = {};
     for (var i in settings) {
@@ -994,7 +995,7 @@ $(window).on('load', function() {
     }
     polygonSettings.push(p);
   }
-
+*/
   // Returns a string that contains digits of val split by comma evey 3 positions
   // Example: 12345678 -> "12,345,678"
   function comma(val) {
