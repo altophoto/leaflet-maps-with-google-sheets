@@ -262,7 +262,7 @@ $(window).on('load', function() {
     completePoints = true;
     return group;
   }
-/*
+
   var polygon = 0; // current active polygon
   var layer = 0; // number representing current layer among layers in legend
 
@@ -393,14 +393,12 @@ $(window).on('load', function() {
         div.innerHTML = content;
         div.innerHTML += '</div>';
         return div;
-
       };
 
       polygonsLegend.addTo(map);
       allPolygonLegends.push(polygonsLegend);
 
       p++;
-
     }
 
     // Generate polygon labels layers
@@ -691,7 +689,7 @@ $(window).on('load', function() {
     showMap();
 
     function showMap() {
-      if (completePoints /*&& completePolylines && completePolygons*/) {
+      if (completePoints && completePolylines && completePolygons) {
         $('.ladder h6').append('<span class="legend-arrow"><i class="fa fa-chevron-down"></i></span>');
         $('.ladder h6').addClass('minimize');
 
@@ -732,7 +730,6 @@ $(window).on('load', function() {
       } else {
         setTimeout(showMap, 50);
       }
-
     }
   }
 
@@ -758,10 +755,9 @@ $(window).on('load', function() {
   }
 
 
-  /*
+  /**
    * Adds polylines to the map
    */
-
   function processPolylines(p) {
     if (!p || p.length == 0) return;
 
@@ -839,6 +835,7 @@ $(window).on('load', function() {
     }
   }
 
+
   function initIntroPopup(info, coordinates) {
     // This is a pop-up for mobile device
     if (window.matchMedia("only screen and (max-width: 760px)").matches) {
@@ -858,7 +855,7 @@ $(window).on('load', function() {
       .openOn(map);
   }
 
-  /*
+  /**
    * Turns on and off polygon text labels depending on current map zoom
    */
   function togglePolygonLabels() {
@@ -983,7 +980,7 @@ $(window).on('load', function() {
     }
   }
 
-  /*
+  /**
    * Reformulates polygonSettings as a dictionary, e.g.
    * {"webpageTitle": "Leaflet Boilerplate", "infoPopupText": "Stuff"}
    */
