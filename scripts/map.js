@@ -2,13 +2,13 @@ $(window).on('load', function() {
   var documentSettings = {};
   var markerColors = [];
 
-  var polygonSettings = [];
-  var polygonSheets = 1;
-  var polygonsLegend;
+//  var polygonSettings = [];
+//  var polygonSheets = 1;
+//  var polygonsLegend;
 
   var completePoints = false;
-  var completePolygons = false;
-  var completePolylines = false;
+//  var completePolygons = false;
+//  var completePolylines = false;
 
   /**
    * Returns an Awesome marker with specified parameters
