@@ -1,0 +1,6604 @@
+{
+type: "FeatureCollection",
+features: [
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [
+        -72.597994, 
+        42.851176
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 254-3743",
+      "phone": "8022543743",
+      "address": "860 Western Avenue",
+      "city": "Brattleboro",
+      "schoolname": "Academy School",
+      "principal": "Principal Andrew Paciulli",
+      "district": "TBD",
+      "postalCode": "05301",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [
+        -73.304713,
+        44.0879679
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 759-2131",
+      "phone": "8027592131",
+      "address": "121 Vt Rte 17 West",
+      "city": "Addison",
+      "schoolname": "Addison Central School",
+      "principal": "Principal Travis Park",
+      "district": "TBD",
+      "postalCode": "05491",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.376839, 44.737995
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 755-6168",
+      "phone": "8027556168",
+      "address": "351 Main St",
+      "city": "Albany",
+      "schoolname": "Albany Community School",
+      "principal": "Principal Todd Rivver",
+      "district": "TBD",
+      "postalCode": "05820",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4714816, 43.4694223
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 484-3344",
+      "phone": "8024843344",
+      "address": "Po Box 88",
+      "city": "Brownsville",
+      "schoolname": "Albert Bridge Sch (W Wind)",
+      "principal": "Principal Jenifer Aldrich",
+      "district": "TBD",
+      "postalCode": "05037",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0987693, 44.4869722
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 878-1388",
+      "phone": "8028781388",
+      "address": "104 Maple Street",
+      "city": "Essex Junction",
+      "schoolname": "Albert D Lawton School",
+      "principal": "Principal Jennifer Wood",
+      "district": "TBD",
+      "postalCode": "05452",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2982707, 44.979204
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 796-3573",
+      "phone": "8027963573",
+      "address": "14 North Main Street",
+      "city": "Alburg",
+      "schoolname": "Alburgh Community Ed Center",
+      "principal": "Principal James Ross",
+      "district": "TBD",
+      "postalCode": "05440",
+      "state": "VT",
+      "county": "Grand Isle County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1508814, 43.065997
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 375-2589",
+      "phone": "8023752589",
+      "address": "529 East Arlington Rd",
+      "city": "Arlington",
+      "schoolname": "Arlington Memorial High School",
+      "principal": "Principal Timothy Stewart",
+      "district": "TBD",
+      "postalCode": "05250",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.609009, 43.170174
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 843-2495",
+      "phone": "8028432495",
+      "address": "Pob 226",
+      "city": "Grafton",
+      "schoolname": "Athens-Grafton Joint Contract School",
+      "principal": "Principal Cela Dorr",
+      "district": "TBD",
+      "postalCode": "05146",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8027989, 44.7842811
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 827-6611",
+      "phone": "8028276611",
+      "address": "Box 17 Academy Drive",
+      "city": "Bakersfield",
+      "schoolname": "Bakersfield School",
+      "principal": "Principal Anissa Seguin",
+      "district": "TBD",
+      "postalCode": "05441",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6195002, 43.7271345
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 234-9763",
+      "phone": "8022349763",
+      "address": "Po Box 157",
+      "city": "Barnard",
+      "schoolname": "Barnard Academy",
+      "principal": "Principal Anne Koop",
+      "district": "TBD",
+      "postalCode": "05031",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.080737, 44.307334
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 633-4978",
+      "phone": "8026334978",
+      "address": "163 Kid Row",
+      "city": "Barnet",
+      "schoolname": "Barnet Elementary School",
+      "principal": "Principal Shawn Gonyaw",
+      "district": "TBD",
+      "postalCode": "05821",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5047609, 44.1845142
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 476-6541",
+      "phone": "8024766541",
+      "address": "50 Parkside Terrace",
+      "city": "Barre",
+      "schoolname": "Barre City Elem-Middle School",
+      "principal": "Principal Jacquelyn Tolman",
+      "district": "TBD",
+      "postalCode": "05641",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5047609, 44.1845142
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 476-6541",
+      "phone": "8024766541",
+      "address": "50 Parkside Terrace",
+      "city": "Barre",
+      "schoolname": "Barre City Elem-Middle School",
+      "principal": "Principal James Taffel",
+      "district": "TBD",
+      "postalCode": "05641",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.486165, 44.168403
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 476-6617",
+      "phone": "8024766617",
+      "address": "70 Websterville Road",
+      "city": "Barre",
+      "schoolname": "Barre Town Elementary School",
+      "principal": "Principal Scott Griggs",
+      "district": "TBD",
+      "postalCode": "05641-9029",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.486165, 44.168403
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 476-6617",
+      "phone": "8024766617",
+      "address": "70 Websterville Road",
+      "city": "Barre",
+      "schoolname": "Barre Town Elementary School",
+      "principal": "Principal Jennifer Nye",
+      "district": "TBD",
+      "postalCode": "05641-9029",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9524235, 43.7010447
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 773-6926",
+      "phone": "8027736926",
+      "address": "223 Chittenden Road",
+      "city": "Chittenden",
+      "schoolname": "Barstow Memorial School",
+      "principal": "Principal Renee Castillo",
+      "district": "TBD",
+      "postalCode": "05737",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.180092, 44.749023
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 525-6244",
+      "phone": "8025256244",
+      "address": "137 Church Street",
+      "city": "Barton",
+      "schoolname": "Barton Graded School",
+      "principal": "Principal Robert Partridge",
+      "district": "TBD",
+      "postalCode": "05822",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.153222, 44.125328
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 453-2331",
+      "phone": "8024532331",
+      "address": "50 North Street",
+      "city": "New Haven",
+      "schoolname": "Beeman Elementary School",
+      "principal": "Principal Kristine Evarts",
+      "district": "TBD",
+      "postalCode": "05472",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4462749, 43.1333656
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 463-4366",
+      "phone": "8024634366",
+      "address": "School Street",
+      "city": "Bellows Falls",
+      "schoolname": "Bellows Falls Middle School",
+      "principal": "Principal Karen Bukowski",
+      "district": "TBD",
+      "postalCode": "05101",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4442318, 43.1364725
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 463-3944",
+      "phone": "8024633944",
+      "address": "Route 5 South",
+      "city": "Bellows Falls",
+      "schoolname": "Bellows Falls Uhs #27",
+      "principal": "Principal Chris Hodsden",
+      "district": "TBD",
+      "postalCode": "05101",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0132732, 44.6635996
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 849-2222",
+      "phone": "8028492222",
+      "address": "75 Hunt Street",
+      "city": "Fairfax",
+      "schoolname": "Bellows Free Academy (Fairfax)",
+      "principal": "Principal Tom Walsh",
+      "district": "TBD",
+      "postalCode": "05454",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0828117, 44.8080266
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 527-7576",
+      "phone": "8025277576",
+      "address": "71 South Main Street",
+      "city": "St Albans",
+      "schoolname": "Bellows Free Academy (St Albans)",
+      "principal": "Principal Christopher Mosca",
+      "district": "TBD",
+      "postalCode": "05478-2297",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0133096, 44.6635539
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 849-6711",
+      "phone": "8028496711",
+      "address": "75 Hunt Street",
+      "city": "Fairfax",
+      "schoolname": "Bellows Free Academy Hs (Fairfax)",
+      "principal": "Principal John Tague",
+      "district": "TBD",
+      "postalCode": "05454",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1935139, 42.88073
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 442-5256",
+      "phone": "8024425256",
+      "address": "128 Park Street",
+      "city": "Bennington",
+      "schoolname": "Bennington Elementary School",
+      "principal": "Principal James Law",
+      "district": "TBD",
+      "postalCode": "05201",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.302237, 43.7072408
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 537-2491",
+      "phone": "8025372491",
+      "address": "32 School Street",
+      "city": "Benson",
+      "schoolname": "Benson Village School",
+      "principal": "Principal Kim Doty",
+      "district": "TBD",
+      "postalCode": "05731",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.7662099, 44.9724974
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 933-2290",
+      "phone": "8029332290",
+      "address": "4850 Water Tower Road",
+      "city": "Richford",
+      "schoolname": "Berkshire Elementary School",
+      "principal": "Principal Lynn Cota",
+      "district": "TBD",
+      "postalCode": "05476",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5717356, 44.2145063
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 223-2796",
+      "phone": "8022232796",
+      "address": "372 Paine Turnpike No - Berlin",
+      "city": "Berlin",
+      "schoolname": "Berlin Elementary School",
+      "principal": "Principal Carol Amos",
+      "district": "TBD",
+      "postalCode": "05602",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6435, 43.833232
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 234-6607",
+      "phone": "8022346607",
+      "address": "273 Pleasant St",
+      "city": "Bethel",
+      "schoolname": "Bethel Elementary School",
+      "principal": "Principal Owen Bradley",
+      "district": "TBD",
+      "postalCode": "05032",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2063979, 43.963902
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 462-2463",
+      "phone": "8024622463",
+      "address": "112 School Road",
+      "city": "Cornwall",
+      "schoolname": "Bingham Memorial School",
+      "principal": "Principal Jennifer Kravitz",
+      "district": "TBD",
+      "postalCode": "05753",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.688557, 43.397114
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 228-4721",
+      "phone": "8022284721",
+      "address": "43 Main Street",
+      "city": "Ludlow",
+      "schoolname": "Black River Us #39",
+      "principal": "Principal Shannon Martin",
+      "district": "TBD",
+      "postalCode": "05149",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0833144, 44.1553744
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 757-2711",
+      "phone": "8027572711",
+      "address": "2420 Route 302",
+      "city": "Wells River",
+      "schoolname": "Blue Mountain Us #21",
+      "principal": "Principal Scott Blood",
+      "district": "TBD",
+      "postalCode": "05081",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.1224734, 44.0026079
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 222-4077",
+      "phone": "8022224077",
+      "address": "143 Fairground Rd",
+      "city": "Bradford",
+      "schoolname": "Bradford Elementary School",
+      "principal": "Principal Matthew Brankman",
+      "district": "TBD",
+      "postalCode": "05033",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.72245, 43.955559
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 728-9373",
+      "phone": "8027289373",
+      "address": "66 Bent Hill Road",
+      "city": "Braintree",
+      "schoolname": "Braintree School",
+      "principal": "Principal Susan Mckelvie",
+      "district": "TBD",
+      "postalCode": "05060",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.561716, 42.83564
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 257-3029",
+      "phone": "8022573029",
+      "address": "109 Sunny Acres",
+      "city": "Brattleboro",
+      "schoolname": "Bratt Area Middle School #6",
+      "principal": "Principal Keith Lyman",
+      "district": "TBD",
+      "postalCode": "05301",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.561267, 42.836739
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 257-0356",
+      "phone": "8022570356",
+      "address": "131 Fairground Road",
+      "city": "Brattleboro",
+      "schoolname": "Brattleboro Uhs #6",
+      "principal": "Principal Steve Perrin",
+      "district": "TBD",
+      "postalCode": "05301",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9634251, 44.2958697
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 434-2074",
+      "phone": "8024342074",
+      "address": "120 School Street",
+      "city": "Huntington",
+      "schoolname": "Brewster Pierce Elementary School",
+      "principal": "Principal Sally Koch Hayes",
+      "district": "TBD",
+      "postalCode": "05462-9712",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.3158066, 43.9809453
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 758-2331",
+      "phone": "8027582331",
+      "address": "3442 Vt Rt 22A",
+      "city": "Bridport",
+      "schoolname": "Bridport Central School",
+      "principal": "Principal Jennefer Eaton",
+      "district": "TBD",
+      "postalCode": "05734",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.8938945, 44.8215785
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 723-4373",
+      "phone": "8027234373",
+      "address": "Po Box 419",
+      "city": "Island Pond",
+      "schoolname": "Brighton Elementary School",
+      "principal": "Principal Denise Russell",
+      "district": "TBD",
+      "postalCode": "05846",
+      "state": "VT",
+      "county": "Essex County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0770421, 44.1379395
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 453-3227",
+      "phone": "8024533227",
+      "address": "57 Mountain St",
+      "city": "Bristol",
+      "schoolname": "Bristol Elementary School",
+      "principal": "Principal Kevin Robinson",
+      "district": "TBD",
+      "postalCode": "05443",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.606683, 44.016395
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 276-3153",
+      "phone": "8022763153",
+      "address": "1728 Ridge Rd",
+      "city": "Brookfield",
+      "schoolname": "Brookfield Elementary School",
+      "principal": "Principal Susan Mckelvie",
+      "district": "TBD",
+      "postalCode": "05036",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.137688, 44.819904
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 754-8467",
+      "phone": "8027548467",
+      "address": "103 Chase Road",
+      "city": "Brownington",
+      "schoolname": "Brownington Central School",
+      "principal": "Principal Lawrence Fliegelman",
+      "district": "TBD",
+      "postalCode": "05860-9765",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9441695, 44.5192478
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 899-3711",
+      "phone": "8028993711",
+      "address": "20 River Road",
+      "city": "Jericho",
+      "schoolname": "Browns River Middle School",
+      "principal": "Principal Kevin Hamilton",
+      "district": "TBD",
+      "postalCode": "05465",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.960265, 44.625084
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 467-3385",
+      "phone": "8024673385",
+      "address": "3293 Burke Hollow Road",
+      "city": "West Burke",
+      "schoolname": "Burke Town School",
+      "principal": "Principal Stacy Rice",
+      "district": "TBD",
+      "postalCode": "05871-8913",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.235261, 44.4963229
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 864-8411",
+      "phone": "8028648411",
+      "address": "52 Institute Road",
+      "city": "Burlington",
+      "schoolname": "Burlington Senior High School",
+      "principal": "Principal Tracy Racicot",
+      "district": "TBD",
+      "postalCode": "05401",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.077354, 43.163803
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 362-1775",
+      "phone": "8023621775",
+      "address": "Box 498 Seminary Avenue",
+      "city": "Manchester",
+      "schoolname": "Burr And Burton Academy",
+      "principal": "Principal Mark Tashjian",
+      "district": "TBD",
+      "postalCode": "05254",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.243035, 44.513102
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 864-8479",
+      "phone": "8028648479",
+      "address": "332 Ethan Allen Parkway",
+      "city": "Burlington",
+      "schoolname": "C P Smith School",
+      "principal": "Principal Amy Mellencamp",
+      "district": "TBD",
+      "postalCode": "05401",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3093359, 44.4034302
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 563-2289",
+      "phone": "8025632289",
+      "address": "25 Common Road",
+      "city": "Cabot",
+      "schoolname": "Cabot School",
+      "principal": "Principal David Schilling",
+      "district": "TBD",
+      "postalCode": "05647",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4516452, 44.3193948
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 454-7777",
+      "phone": "8024547777",
+      "address": "321 Lightening Ridge Road",
+      "city": "Plainfield",
+      "schoolname": "Calais Elementary School",
+      "principal": "Principal Catherine Fair",
+      "district": "TBD",
+      "postalCode": "05667",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8267715, 44.6444743
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 644-8821",
+      "phone": "8026448821",
+      "address": "Po Box 160",
+      "city": "Jeffersonville",
+      "schoolname": "Cambridge Elementary School",
+      "principal": "Principal Mary Anderson",
+      "district": "TBD",
+      "postalCode": "05464",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9943127, 44.4135271
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 434-2188",
+      "phone": "8024342188",
+      "address": "173 School Street",
+      "city": "Richmond",
+      "schoolname": "Camels Hump Middle School",
+      "principal": "Principal Mark Carbone",
+      "district": "TBD",
+      "postalCode": "05477",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.537662, 44.99537
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 266-8910",
+      "phone": "8022668910",
+      "address": "99 School Street",
+      "city": "Canaan",
+      "schoolname": "Canaan Schools",
+      "principal": "Principal Deborah Lynch",
+      "district": "TBD",
+      "postalCode": "05903",
+      "state": "VT",
+      "county": "Essex County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1782069, 43.612408
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 468-5624",
+      "phone": "8024685624",
+      "address": "Po Box 68",
+      "city": "Castleton",
+      "schoolname": "Castleton Hubbardton Us #42",
+      "principal": "Principal Kathleen Cotton",
+      "district": "TBD",
+      "postalCode": "05735",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1782069, 43.612408
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 468-2203",
+      "phone": "8024682203",
+      "address": "Po Box 68",
+      "city": "Castleton",
+      "schoolname": "Castleton Hubbardton Us #42",
+      "principal": "Principal Linda Peltier",
+      "district": "TBD",
+      "postalCode": "05735",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6368872, 43.3836765
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 226-7758",
+      "phone": "8022267758",
+      "address": "Po Box 236",
+      "city": "Proctorsville",
+      "schoolname": "Cavendish Town Elem School",
+      "principal": "Principal George Thomson",
+      "district": "TBD",
+      "postalCode": "05153",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4505775, 43.1324177
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 463-4346",
+      "phone": "8024634346",
+      "address": "50 School Street Extension",
+      "city": "Bellows Falls",
+      "schoolname": "Central Elementary School",
+      "principal": "Principal Keith Nemlich",
+      "district": "TBD",
+      "postalCode": "05101",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1654672, 44.4713727
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 652-7400",
+      "phone": "8026527400",
+      "address": "262 White Street",
+      "city": "So Burlington",
+      "schoolname": "Chamberlin School",
+      "principal": "Principal Holly Rouelle",
+      "district": "TBD",
+      "postalCode": "05403-5940",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.213221, 44.457065
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 864-8477",
+      "phone": "8028648477",
+      "address": "800 Pine Street",
+      "city": "Burlington",
+      "schoolname": "Champlain Elementary School",
+      "principal": "Principal Dorinne Dorfman",
+      "district": "TBD",
+      "postalCode": "05401",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1099525, 44.3446552
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 482-7100",
+      "phone": "8024827100",
+      "address": "369 Cvu Road",
+      "city": "Hinesburg",
+      "schoolname": "Champlain Valley Uhs #15",
+      "principal": "Principal Adam Bunting",
+      "district": "TBD",
+      "postalCode": "05461",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.019768, 44.843109
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 895-2915",
+      "phone": "8028952915",
+      "address": "255 Center School Road",
+      "city": "West Charleston",
+      "schoolname": "Charleston Elem School",
+      "principal": "Principal Jessica Applegate",
+      "district": "TBD",
+      "postalCode": "05872",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.226451, 44.315086
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 425-2771",
+      "phone": "8024252771",
+      "address": "408 Hinesburg Road",
+      "city": "Charlotte",
+      "schoolname": "Charlotte Central School",
+      "principal": "Principal Barbara Komons Montroll",
+      "district": "TBD",
+      "postalCode": "05445",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.446617, 43.987282
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 685-4551",
+      "phone": "8026854551",
+      "address": "Po Box 24E",
+      "city": "Chelsea",
+      "schoolname": "Chelsea Elem High School",
+      "principal": "Principal Mark Blount",
+      "district": "TBD",
+      "postalCode": "05038-9746",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5954546, 43.2646923
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 875-2108",
+      "phone": "8028752108",
+      "address": "72 Main Street",
+      "city": "Chester",
+      "schoolname": "Chester Andover Us #29",
+      "principal": "Principal Katherine Fogg",
+      "district": "TBD",
+      "postalCode": "05143",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.96786, 43.5634
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 775-5379",
+      "phone": "8027755379",
+      "address": "84 Grange Hall Rd",
+      "city": "North Clarendon",
+      "schoolname": "Clarendon Elementary School",
+      "principal": "Principal Fred Valastro",
+      "district": "TBD",
+      "postalCode": "05759",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2138341, 44.5399122
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 658-1570",
+      "phone": "8026581570",
+      "address": "Po Box 900",
+      "city": "Colchester",
+      "schoolname": "Colchester High School",
+      "principal": "Principal Heather Baron",
+      "district": "TBD",
+      "postalCode": "05446",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2097507, 44.5405118
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 264-5800",
+      "phone": "8022645800",
+      "address": "Po Box 30",
+      "city": "Colchester",
+      "schoolname": "Colchester Middle School",
+      "principal": "Principal Michele Cote",
+      "district": "TBD",
+      "postalCode": "05446",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.8904607, 44.4266783
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 695-2550",
+      "phone": "8026952550",
+      "address": "173 School Street",
+      "city": "Concord",
+      "schoolname": "Concord Graded-Middle School",
+      "principal": "Principal Julia Donahue",
+      "district": "TBD",
+      "postalCode": "05824",
+      "state": "VT",
+      "county": "Essex County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.2650021, 44.8628287
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 754-6464",
+      "phone": "8027546464",
+      "address": "Po Box 92",
+      "city": "Coventry",
+      "schoolname": "Coventry Village School",
+      "principal": "Principal Matthew Baughman",
+      "district": "TBD",
+      "postalCode": "05825",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.381984, 44.6541939
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 586-2541",
+      "phone": "8025862541",
+      "address": "1422 North Craftsbury Road",
+      "city": "Craftsbury Comm",
+      "schoolname": "Craftsbury Schools",
+      "principal": "Principal Merri Greenia",
+      "district": "TBD",
+      "postalCode": "05827",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.7528363, 44.321123
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 244-6100",
+      "phone": "8022446100",
+      "address": "5672 Vt Route 100",
+      "city": "Duxbury",
+      "schoolname": "Crossett Brook Middle Us #45",
+      "principal": "Principal Thomas Drake",
+      "district": "TBD",
+      "postalCode": "05676",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9951757, 43.3497894
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 293-5191",
+      "phone": "8022935191",
+      "address": "234 North Main St",
+      "city": "Danby",
+      "schoolname": "Currier Memorial Us #23",
+      "principal": "Principal Carolyn Parillo",
+      "district": "TBD",
+      "postalCode": "05739-0243",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.1437508, 44.4108915
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 684-3651",
+      "phone": "8026843651",
+      "address": "148 Peacham Road",
+      "city": "Danville",
+      "schoolname": "Danville School",
+      "principal": "Principal Kerin Hoffman",
+      "district": "TBD",
+      "postalCode": "05828",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.118345, 45.001503
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 873-3162",
+      "phone": "8028733162",
+      "address": "907 Elm Street",
+      "city": "Derby Line",
+      "schoolname": "Derby Elementary School",
+      "principal": "Principal Stacey Urbin",
+      "district": "TBD",
+      "postalCode": "05830",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0657074, 43.2219794
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 362-2606",
+      "phone": "8023622606",
+      "address": "130 School Drive",
+      "city": "Dorset",
+      "schoolname": "Dorset School",
+      "principal": "Principal Rosanna Moran",
+      "district": "TBD",
+      "postalCode": "05251",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3217171, 43.687628
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 295-8647",
+      "phone": "8022958647",
+      "address": "2300 Christian Street",
+      "city": "White River Jct",
+      "schoolname": "Dothan Brook School",
+      "principal": "Principal Rick Dustin Eichler",
+      "district": "TBD",
+      "postalCode": "05001",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.547949, 44.373349
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 223-5656",
+      "phone": "8022235656",
+      "address": "Po Box 162",
+      "city": "Worcester",
+      "schoolname": "Doty Memorial School",
+      "principal": "Principal Matthew Young",
+      "district": "TBD",
+      "postalCode": "05682-0162",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.80991, 42.938863
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 464-5386",
+      "phone": "8024645386",
+      "address": "9 Schoolhouse Road",
+      "city": "East Dover",
+      "schoolname": "Dover Elementary School",
+      "principal": "Principal Matthew Martyn",
+      "district": "TBD",
+      "postalCode": "05341",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5379992, 42.9336033
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 254-2733",
+      "phone": "8022542733",
+      "address": "52 Schoolhouse Road",
+      "city": "East Dummerston",
+      "schoolname": "Dummerston Schools",
+      "principal": "Principal Jo Carol Ratti",
+      "district": "TBD",
+      "postalCode": "05346",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4953304, 44.2866171
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 223-7936",
+      "phone": "8022237936",
+      "address": "Po Box 190",
+      "city": "East Montpelier",
+      "schoolname": "East Montpelier Elem School",
+      "principal": "Principal Alicia Lyford",
+      "district": "TBD",
+      "postalCode": "05651-0190",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.563901, 44.704038
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 635-6630",
+      "phone": "8026356630",
+      "address": "Po Box 29",
+      "city": "Eden",
+      "schoolname": "Eden Central School",
+      "principal": "Principal Melinda Mascolino",
+      "district": "TBD",
+      "postalCode": "05652",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.20729, 44.475518
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 864-8473",
+      "phone": "8028648473",
+      "address": "299 Main Street",
+      "city": "Burlington",
+      "schoolname": "Edmunds Elementary School",
+      "principal": "Principal Michelle Mathias",
+      "district": "TBD",
+      "postalCode": "05401",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.208086, 44.475468
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 864-8486",
+      "phone": "8028648486",
+      "address": "275 Main Street",
+      "city": "Burlington",
+      "schoolname": "Edmunds Middle School",
+      "principal": "Principal Michelle Mathias",
+      "district": "TBD",
+      "postalCode": "05401",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4844404, 43.3061209
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 885-5154",
+      "phone": "8028855154",
+      "address": "10 Hoover Street",
+      "city": "Springfield",
+      "schoolname": "Elm Hill School",
+      "principal": "Principal Dana Jacobson Goodhue",
+      "district": "TBD",
+      "postalCode": "05156",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5222732, 44.5393373
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 888-2966",
+      "phone": "8028882966",
+      "address": "Po Box 122",
+      "city": "Lake Elmore",
+      "schoolname": "Elmore School",
+      "principal": "Principal Tracy Wrend",
+      "district": "TBD",
+      "postalCode": "05657",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.801033, 44.904316
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 933-2171",
+      "phone": "8029332171",
+      "address": "Po Box 510",
+      "city": "Enosburg Falls",
+      "schoolname": "Enosburg Falls Elementary School",
+      "principal": "Principal Michelle Lussier",
+      "district": "TBD",
+      "postalCode": "05450",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8039149, 44.9053176
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 933-7777",
+      "phone": "8029337777",
+      "address": "School Street, Box 417",
+      "city": "Enosburg Falls",
+      "schoolname": "Enosburg Falls Middle-High School",
+      "principal": "Principal Rachel Reynolds",
+      "district": "TBD",
+      "postalCode": "05450",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8039149, 44.9053176
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 933-7777",
+      "phone": "8029337777",
+      "address": "School Street, Box 417",
+      "city": "Enosburg Falls",
+      "schoolname": "Enosburg Falls Middle-High School",
+      "principal": "Principal Eric Remmers",
+      "district": "TBD",
+      "postalCode": "05450",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1100265, 44.4982009
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 879-5500",
+      "phone": "8028795500",
+      "address": "2 Educational Lane",
+      "city": "Essex Junction",
+      "schoolname": "Essex Community Ed Center",
+      "principal": "Principal Robert Reardon",
+      "district": "TBD",
+      "postalCode": "05452",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0555147, 44.5130041
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 878-2584",
+      "phone": "8028782584",
+      "address": "1 Bixby Hill Road",
+      "city": "Essex Junction",
+      "schoolname": "Essex Elementary School",
+      "principal": "Principal Peter Farrell",
+      "district": "TBD",
+      "postalCode": "05452",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0579969, 44.4992447
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 879-7173",
+      "phone": "8028797173",
+      "address": "60 Founders Rd",
+      "city": "Essex Junction",
+      "schoolname": "Essex Middle School",
+      "principal": "Principal Kevin Briggs",
+      "district": "TBD",
+      "postalCode": "05452",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2644651, 43.5948092
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 265-3883",
+      "phone": "8022653883",
+      "address": "103 N. Main Street",
+      "city": "Fair Haven",
+      "schoolname": "Fair Haven Grade School",
+      "principal": "Principal Wayne Cooke",
+      "district": "TBD",
+      "postalCode": "05743",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2703625, 43.6035814
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 265-4966",
+      "phone": "8022654966",
+      "address": "33 Mechanic Street Extension",
+      "city": "Fair Haven",
+      "schoolname": "Fair Haven Uhs #16",
+      "principal": "Principal Brett Blanchard",
+      "district": "TBD",
+      "postalCode": "05743",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.947922, 44.80051
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 827-6639",
+      "phone": "8028276639",
+      "address": "57 Park Street",
+      "city": "Fairfield",
+      "schoolname": "Fairfield Center School",
+      "principal": "Principal Jill Ballou",
+      "district": "TBD",
+      "postalCode": "05455",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8842112, 44.1791977
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 496-3636",
+      "phone": "8024963636",
+      "address": "782 German Flats Road",
+      "city": "Fayston",
+      "schoolname": "Fayston Elementary School",
+      "principal": "Principal Jean Berthiaume",
+      "district": "TBD",
+      "postalCode": "05673",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2478787, 44.2067279
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 877-3463",
+      "phone": "8028773463",
+      "address": "56 Little Chicago Road",
+      "city": "Ferrisburgh",
+      "schoolname": "Ferrisburgh Central School",
+      "principal": "Principal Beth Brodie",
+      "district": "TBD",
+      "postalCode": "05456",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.153659, 43.066169
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 375-6409",
+      "phone": "8023756409",
+      "address": "504 East Arlington Rd",
+      "city": "Arlington",
+      "schoolname": "Fisher School",
+      "principal": "Principal Deanne Lacoste",
+      "district": "TBD",
+      "postalCode": "05250",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.923782, 44.67049
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 849-6251",
+      "phone": "8028496251",
+      "address": "340 School Road",
+      "city": "Cambridge",
+      "schoolname": "Fletcher Elementary School",
+      "principal": "Principal Chris Dodge",
+      "district": "TBD",
+      "postalCode": "05444",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8480324, 43.2367859
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 824-6979",
+      "phone": "8028246979",
+      "address": "91 Vt Route 11",
+      "city": "Londonderry",
+      "schoolname": "Flood Brook Us #20",
+      "principal": "Principal Neal Mcintyre",
+      "district": "TBD",
+      "postalCode": "05148",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.3022079, 44.636311
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 372-6600",
+      "phone": "8023726600",
+      "address": "75 South Street",
+      "city": "South Hero",
+      "schoolname": "Folsom Ed And Community Ctr",
+      "principal": "Principal Leonard Badeau",
+      "district": "TBD",
+      "postalCode": "05486",
+      "state": "VT",
+      "county": "Grand Isle County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0553216, 44.5004481
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 879-6326",
+      "phone": "8028796326",
+      "address": "33 Founders Rd",
+      "city": "Essex Junction",
+      "schoolname": "Founders Memorial School",
+      "principal": "Principal Wendy Cobb",
+      "district": "TBD",
+      "postalCode": "05452",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9201647, 44.9842389
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 285-2100",
+      "phone": "8022852100",
+      "address": "Po Box 146",
+      "city": "Franklin",
+      "schoolname": "Franklin Elementary School",
+      "principal": "Principal Joyce Hakey",
+      "district": "TBD",
+      "postalCode": "05457",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1774257, 44.4567486
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 652-7100",
+      "phone": "8026527100",
+      "address": "500 Dorset Street",
+      "city": "S Burlington",
+      "schoolname": "Frederick H Tuttle Middle School",
+      "principal": "Principal Karsten Schlenter",
+      "district": "TBD",
+      "postalCode": "05403",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1144163, 44.7350207
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 524-6358",
+      "phone": "8025246358",
+      "address": "4416 Ethan Allen Highway",
+      "city": "St Albans",
+      "schoolname": "Georgia Elem-Middle School",
+      "principal": "Principal Frank Calano",
+      "district": "TBD",
+      "postalCode": "05478",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1144163, 44.7350207
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 524-6358",
+      "phone": "8025246358",
+      "address": "4416 Ethan Allen Highway",
+      "city": "St Albans",
+      "schoolname": "Georgia Elem-Middle School",
+      "principal": "Principal Steve Emery",
+      "district": "TBD",
+      "postalCode": "05478",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.189466, 44.705938
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 525-6958",
+      "phone": "8025256958",
+      "address": "100 School Street",
+      "city": "Glover",
+      "schoolname": "Glover Community School",
+      "principal": "Principal Angelique Brown",
+      "district": "TBD",
+      "postalCode": "05839",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2915204, 44.725599
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 372-6913",
+      "phone": "8023726913",
+      "address": "224 Us Rte 2",
+      "city": "Grand Isle",
+      "schoolname": "Grand Isle  School",
+      "principal": "Principal Eric Arnzen",
+      "district": "TBD",
+      "postalCode": "05458",
+      "state": "VT",
+      "county": "Grand Isle County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.581459, 43.253613
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 875-2146",
+      "phone": "8028752146",
+      "address": "716 Vt Rte 103 South",
+      "city": "Chester",
+      "schoolname": "Green Mountain Uhs #35",
+      "principal": "Principal Thomas Ferenc",
+      "district": "TBD",
+      "postalCode": "05143",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.565, 42.85174
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 254-3737",
+      "phone": "8022543737",
+      "address": "164 Green Street",
+      "city": "Brattleboro",
+      "schoolname": "Green Street School",
+      "principal": "Principal Mark Speno",
+      "district": "TBD",
+      "postalCode": "05301",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6223515, 42.800709
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 254-2271",
+      "phone": "8022542271",
+      "address": "374 School Road",
+      "city": "Guilford",
+      "schoolname": "Guilford Central School",
+      "principal": "Principal John Gagnon",
+      "district": "TBD",
+      "postalCode": "05301",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.768503, 42.784431
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 368-2888",
+      "phone": "8023682888",
+      "address": "Branch Road",
+      "city": "West Halifax",
+      "schoolname": "Halifax School",
+      "principal": "Principal Sandra Pentak Cohen",
+      "district": "TBD",
+      "postalCode": "05358",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3681449, 44.5033274
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 472-5411",
+      "phone": "8024725411",
+      "address": "Po Box 515",
+      "city": "Hardwick",
+      "schoolname": "Hardwick Elementary School",
+      "principal": "Principal Edie Dunn",
+      "district": "TBD",
+      "postalCode": "05843",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.318855, 43.657753
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 295-8610",
+      "phone": "8022958610",
+      "address": "37 Highland Avenue",
+      "city": "White River Jct",
+      "schoolname": "Hartford High School",
+      "principal": "Principal Nelson Fogg",
+      "district": "TBD",
+      "postalCode": "05001",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3201992, 43.6563504
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 295-8640",
+      "phone": "8022958640",
+      "address": "245 Highland Avenue",
+      "city": "White River Jct",
+      "schoolname": "Hartford Mem Middle School",
+      "principal": "Principal Tristan Upson",
+      "district": "TBD",
+      "postalCode": "05001",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3942648, 43.5379884
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 436-2255",
+      "phone": "8024362255",
+      "address": "97 Martinsville Road",
+      "city": "Hartland",
+      "schoolname": "Hartland Elementary School",
+      "principal": "Principal Shaun Pickett",
+      "district": "TBD",
+      "postalCode": "05048",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.7867166, 44.2539876
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 244-5186",
+      "phone": "8022445186",
+      "address": "458 Vt Route 100",
+      "city": "Duxbury",
+      "schoolname": "Harwood Uhs #19",
+      "principal": "Principal Amy Rex",
+      "district": "TBD",
+      "postalCode": "05660",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.7864532, 44.2540115
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 244-5186",
+      "phone": "8022445186",
+      "address": "458 Vt Rte 100",
+      "city": "Duxbury",
+      "schoolname": "Harwood Union Middle Uhs #19",
+      "principal": "Principal Lisa Atwood",
+      "district": "TBD",
+      "postalCode": "05660",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.364634, 44.508976
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 472-6511",
+      "phone": "8024726511",
+      "address": "Po Box 368",
+      "city": "Hardwick",
+      "schoolname": "Hazen Uhs #26",
+      "principal": "Principal Michael Moriarty",
+      "district": "TBD",
+      "postalCode": "05843",
+      "state": "VT",
+      "county": ""}},
+{type: "Feature",geometry: {type: "Point",coordinates: [-73.1269076, 44.4885517
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 878-1384",
+      "phone": "8028781384",
+      "address": "34 Hiawatha Avenue",
+      "city": "Essex Junction",
+      "schoolname": "Hiawatha School",
+      "principal": "Principal Thomas Bochanski",
+      "district": "TBD",
+      "postalCode": "05452",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.044022, 44.94117
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 868-4170",
+      "phone": "8028684170",
+      "address": "Po Box 163",
+      "city": "Highgate Center",
+      "schoolname": "Highgate Elementary School",
+      "principal": "Principal Patrick Hartnett",
+      "district": "TBD",
+      "postalCode": "05459",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.10778, 44.32621
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 482-2106",
+      "phone": "8024822106",
+      "address": "10888 Rt 116",
+      "city": "Hinesburg",
+      "schoolname": "Hinesburg Community School",
+      "principal": "Principal Jeff O Hara",
+      "district": "TBD",
+      "postalCode": "05461",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.10778, 44.32621
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 482-2106",
+      "phone": "8024822106",
+      "address": "10888 Rt 116",
+      "city": "Hinesburg",
+      "schoolname": "Hinesburg Community School",
+      "principal": "Principal Suzan Locke",
+      "district": "TBD",
+      "postalCode": "05461",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0133074, 44.9730783
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 895-4455",
+      "phone": "8028954455",
+      "address": "26 School Road",
+      "city": "Derby Line",
+      "schoolname": "Holland Elementary School",
+      "principal": "Principal Kelli Dean",
+      "district": "TBD",
+      "postalCode": "05830",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6137179, 44.591888
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 888-2237",
+      "phone": "8028882237",
+      "address": "50 East Main Street",
+      "city": "Hyde Park",
+      "schoolname": "Hyde Park Elementary School",
+      "principal": "Principal Diane Reilly",
+      "district": "TBD",
+      "postalCode": "05655",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.213765, 44.4881833
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 864-8475",
+      "phone": "8028648475",
+      "address": "6 Archibald Street",
+      "city": "Burlington",
+      "schoolname": "Integrated Arts Acad At Ho Wheeler",
+      "principal": "Principal Bob Riley",
+      "district": "TBD",
+      "postalCode": "05401",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.2728506, 44.8036308
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 754-8810",
+      "phone": "8027548810",
+      "address": "Po Box 70",
+      "city": "Irasburg",
+      "schoolname": "Irasburg Village School",
+      "principal": "Principal Paul Simmons",
+      "district": "TBD",
+      "postalCode": "05845",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.346067, 44.8823346
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 928-3231",
+      "phone": "8029283231",
+      "address": "534 School St",
+      "city": "Isle Lamotte",
+      "schoolname": "Isle La Motte Elem School",
+      "principal": "Principal Thomas Tregan",
+      "district": "TBD",
+      "postalCode": "05463",
+      "state": "VT",
+      "county": ""}},
+{type: "Feature",geometry: {type: "Point",coordinates: [-73.180687, 44.500416
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 655-0411",
+      "phone": "8026550411",
+      "address": "70 Normand Street",
+      "city": "Winooski",
+      "schoolname": "J F Kennedy Elem School",
+      "principal": "Principal Sara Raabe",
+      "district": "TBD",
+      "postalCode": "05404-1393",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.260002, 44.517023
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 864-8478",
+      "phone": "8028648478",
+      "address": "1645 North Avenue",
+      "city": "Burlington",
+      "schoolname": "J J Flynn School",
+      "principal": "Principal Graham Clarke",
+      "district": "TBD",
+      "postalCode": "05401",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.775345, 43.103771
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 874-4822",
+      "phone": "8028744822",
+      "address": "Po Box 488",
+      "city": "Jamaica",
+      "schoolname": "Jamaica Village School",
+      "principal": "Principal Laura Hazard",
+      "district": "TBD",
+      "postalCode": "05343",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.435028, 44.952663
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 988-4042",
+      "phone": "8029884042",
+      "address": "257 Revoir Flats Rd",
+      "city": "Jay",
+      "schoolname": "Jay-Westfield Joint School",
+      "principal": "Principal Kristy Ellis",
+      "district": "TBD",
+      "postalCode": "05859",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9897701, 44.5053714
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 899-2272",
+      "phone": "8028992272",
+      "address": "90 Vt Rte 15",
+      "city": "Jericho",
+      "schoolname": "Jericho Elementary School",
+      "principal": "Principal Vicki Graf",
+      "district": "TBD",
+      "postalCode": "05465-9423",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.674763, 44.637031
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 635-2211",
+      "phone": "8026352211",
+      "address": "57 College Hill",
+      "city": "Johnson",
+      "schoolname": "Johnson Elementary School",
+      "principal": "Principal David Manning",
+      "district": "TBD",
+      "postalCode": "05656",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.7941643, 43.6446821
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 422-3366",
+      "phone": "8024223366",
+      "address": "686 School House Road",
+      "city": "Killington",
+      "schoolname": "Killington Elementary School",
+      "principal": "Principal Mary Guggenberger",
+      "district": "TBD",
+      "postalCode": "05751",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.220649, 44.782603
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 754-6521",
+      "phone": "8027546521",
+      "address": "317 Lake Region Road",
+      "city": "Orleans",
+      "schoolname": "Lake Region Uhs #24",
+      "principal": "Principal Andre Messier",
+      "district": "TBD",
+      "postalCode": "05860",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.2939152, 44.5807538
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 533-7066",
+      "phone": "8025337066",
+      "address": "189 Laurendon Ave",
+      "city": "Greensboro",
+      "schoolname": "Lakeview Us #43",
+      "principal": "Principal Eric Erwin",
+      "district": "TBD",
+      "postalCode": "05841",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6319369, 44.6010887
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 888-4261",
+      "phone": "8028884261",
+      "address": "736 Vt Route 15 West",
+      "city": "Hyde Park",
+      "schoolname": "Lamoille Uhs #18",
+      "principal": "Principal Brian Schaffer",
+      "district": "TBD",
+      "postalCode": "05655",
+      "state": "VT",
+      "county": ""}},
+{type: "Feature",geometry: {type: "Point",coordinates: [-72.6319369, 44.6010887
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 888-4261",
+      "phone": "8028884261",
+      "address": "736 Vt Route 15 West",
+      "city": "Hyde Park",
+      "schoolname": "Lamoille Union Middle School #18",
+      "principal": "Principal Wendy Savery",
+      "district": "TBD",
+      "postalCode": "05655",
+      "state": "VT",
+      "county": ""}},
+{type: "Feature",geometry: {type: "Point",coordinates: [-73.1088581, 43.8667079
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 247-8825",
+      "phone": "8022478825",
+      "address": "68 Schoolhouse Road",
+      "city": "Leicester",
+      "schoolname": "Leicester Central School",
+      "principal": "Principal Earl Corey",
+      "district": "TBD",
+      "postalCode": "05733",
+      "state": "VT",
+      "county": ""}},
+{type: "Feature",geometry: {type: "Point",coordinates: [-72.6670936, 43.0465917
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 365-7355",
+      "phone": "8023657355",
+      "address": "Po Box 128",
+      "city": "Townshend",
+      "schoolname": "Leland And Gray Uhs #34",
+      "principal": "Principal  ",
+      "district": "TBD",
+      "postalCode": "05353",
+      "state": "VT",
+      "county": ""}},
+{type: "Feature",geometry: {type: "Point",coordinates: [-72.6670936, 43.0465917
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 365-7355",
+      "phone": "8023657355",
+      "address": "Po Box 128",
+      "city": "Townshend",
+      "schoolname": "Leland And Gray Uhs #34",
+      "principal": "Principal Robert Thibault",
+      "district": "TBD",
+      "postalCode": "05353",
+      "state": "VT",
+      "county": ""}},
+{type: "Feature",geometry: {type: "Point",coordinates: [-72.986305, 44.09766
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 453-2119",
+      "phone": "8024532119",
+      "address": "795 East River Rd",
+      "city": "Lincoln",
+      "schoolname": "Lincoln Community School",
+      "principal": "Principal Tory Riley",
+      "district": "TBD",
+      "postalCode": "05443",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0190098, 43.7055257
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 483-2242",
+      "phone": "8024832242",
+      "address": "3447 Us Route 7",
+      "city": "Pittsford",
+      "schoolname": "Lothrop School",
+      "principal": "Principal Debbie Alexander",
+      "district": "TBD",
+      "postalCode": "05763",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.448708, 44.8053359
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 744-6641",
+      "phone": "8027446641",
+      "address": "52 Gelo Park Road",
+      "city": "Lowell",
+      "schoolname": "Lowell Graded School",
+      "principal": "Principal Anita Gagner",
+      "district": "TBD",
+      "postalCode": "05847",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.688735, 43.3979669
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 228-5151",
+      "phone": "8022285151",
+      "address": "45 Main Street",
+      "city": "Ludlow",
+      "schoolname": "Ludlow Elementary School",
+      "principal": "Principal Karen Trimboli",
+      "district": "TBD",
+      "postalCode": "05149",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.714483, 44.4147729
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 892-5969",
+      "phone": "8028925969",
+      "address": "Po Box 97",
+      "city": "Gilman",
+      "schoolname": "Lunenburg-Gilman Schools",
+      "principal": "Principal Cheryl Mcvetty",
+      "district": "TBD",
+      "postalCode": "05904",
+      "state": "VT",
+      "county": "Essex County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2491272, 44.5132798
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 864-8469",
+      "phone": "8028648469",
+      "address": "1364 North Avenue",
+      "city": "Burlington",
+      "schoolname": "Lyman C Hunt Middle School",
+      "principal": "Principal Leonard Phelan",
+      "district": "TBD",
+      "postalCode": "05401",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0153659, 44.5384146
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 535-3636",
+      "phone": "8025353636",
+      "address": "Po Box 127",
+      "city": "Lyndon Center",
+      "schoolname": "Lyndon Institute",
+      "principal": "Principal Daren Houck",
+      "district": "TBD",
+      "postalCode": "05850",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.9853549, 44.5465485
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 626-3209",
+      "phone": "8026263209",
+      "address": "2591 Lily Pond Road",
+      "city": "Lyndonville",
+      "schoolname": "Lyndon Town School",
+      "principal": "Principal Amy Gale",
+      "district": "TBD",
+      "postalCode": "05851",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5695793, 44.2629656
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 223-3404",
+      "phone": "8022233404",
+      "address": "170 Main Street",
+      "city": "Montpelier",
+      "schoolname": "Main Street Middle School",
+      "principal": "Principal Pamela Arnold",
+      "district": "TBD",
+      "postalCode": "05602",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2076928, 44.5387028
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 264-5900",
+      "phone": "8022645900",
+      "address": "Po Box 28",
+      "city": "Colchester",
+      "schoolname": "Malletts Bay School",
+      "principal": "Principal Julie Benay",
+      "district": "TBD",
+      "postalCode": "05446",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.053734, 43.178738
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 362-1597",
+      "phone": "8023621597",
+      "address": "Po Box 1526",
+      "city": "Manchester Ctr",
+      "schoolname": "Manchester Elem-Middle School",
+      "principal": "Principal Martin Nadler",
+      "district": "TBD",
+      "postalCode": "05255",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.053734, 43.178738
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 362-1597",
+      "phone": "8023621597",
+      "address": "Po Box 1526",
+      "city": "Manchester Ctr",
+      "schoolname": "Manchester Elem-Middle School",
+      "principal": "Principal Irene Nadler",
+      "district": "TBD",
+      "postalCode": "05255",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3063544, 43.7132317
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 649-1703",
+      "phone": "8026491703",
+      "address": "22 Church Street",
+      "city": "Norwich",
+      "schoolname": "Marion W Cross School",
+      "principal": "Principal Bill Hammond",
+      "district": "TBD",
+      "postalCode": "05055",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.719688, 42.868698
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 254-2668",
+      "phone": "8022542668",
+      "address": "Po Box D",
+      "city": "Marlboro",
+      "schoolname": "Marlboro Elementary School",
+      "principal": "Principal Francie Marbury",
+      "district": "TBD",
+      "postalCode": "05344",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2243815, 43.3857682
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 645-9009",
+      "phone": "8026459009",
+      "address": "5788 Vt Route 153",
+      "city": "West Pawlet",
+      "schoolname": "Mettawee Community Us #47",
+      "principal": "Principal Brooke Debonis",
+      "district": "TBD",
+      "postalCode": "05775",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1616527, 44.0105946
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 382-1400",
+      "phone": "8023821400",
+      "address": "201 Mary Hogan Drive",
+      "city": "Middlebury",
+      "schoolname": "Middlebury Id#4",
+      "principal": "Principal Thomas Buzzell",
+      "district": "TBD",
+      "postalCode": "05753",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1630676, 44.0065835
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 382-1500",
+      "phone": "8023821500",
+      "address": "73 Charles Avenue",
+      "city": "Middlebury",
+      "schoolname": "Middlebury Union High School",
+      "principal": "Principal William Lawson",
+      "district": "TBD",
+      "postalCode": "05753",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1524356, 43.9982614
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 382-1600",
+      "phone": "8023821600",
+      "address": "48 Deerfield Lane",
+      "city": "Middlebury",
+      "schoolname": "Middlebury Union Middle School #3",
+      "principal": "Principal Kristin Holsman-Francoeur",
+      "district": "TBD",
+      "postalCode": "05753",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1203383, 43.4839636
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 235-2365",
+      "phone": "8022352365",
+      "address": "Po Box 1267",
+      "city": "Middletown Spr",
+      "schoolname": "Middletown Springs Elem School",
+      "principal": "Principal Richard Beal",
+      "district": "TBD",
+      "postalCode": "05757",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.97152, 43.547028
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 775-3451",
+      "phone": "8027753451",
+      "address": "2321 Middle Road",
+      "city": "North Clarendon",
+      "schoolname": "Mill River Us #40",
+      "principal": "Principal Todd Finn",
+      "district": "TBD",
+      "postalCode": "05759",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.1192335, 44.6026961
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 626-9755",
+      "phone": "8026269755",
+      "address": "Po Box 154",
+      "city": "Sheffield",
+      "schoolname": "Millers Run School Us #37",
+      "principal": "Principal Patrick Ham",
+      "district": "TBD",
+      "postalCode": "05866",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1098197, 44.6324836
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 893-3215",
+      "phone": "8028933215",
+      "address": "42 Herrick Avenue",
+      "city": "Milton",
+      "schoolname": "Milton Elementary School",
+      "principal": "Principal Bridget Gagne",
+      "district": "TBD",
+      "postalCode": "05468-3037",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1098197, 44.6324836
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 893-3215",
+      "phone": "8028933215",
+      "address": "42 Herrick Avenue",
+      "city": "Milton",
+      "schoolname": "Milton Elementary School",
+      "principal": "Principal Mary Fitzgerald",
+      "district": "TBD",
+      "postalCode": "05468-3037",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1197457, 44.6280816
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 893-3230",
+      "phone": "8028933230",
+      "address": "17 Rebecca Lander Drive",
+      "city": "Milton",
+      "schoolname": "Milton High School",
+      "principal": "Principal Anne Blake",
+      "district": "TBD",
+      "postalCode": "05468-3037",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1197457, 44.6280816
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 893-3230",
+      "phone": "8028933230",
+      "address": "17 Rebecca Lander Drive",
+      "city": "Milton",
+      "schoolname": "Milton High School",
+      "principal": "Principal Mary Jane Stinson",
+      "district": "TBD",
+      "postalCode": "05468-3037",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1197457, 44.6280816
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 893-3230",
+      "phone": "8028933230",
+      "address": "17 Rebecca Lander Drive",
+      "city": "Milton",
+      "schoolname": "Milton Middle School",
+      "principal": "Principal Rebecca Day",
+      "district": "TBD",
+      "postalCode": "05468-3037",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1018239, 44.927863
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 868-7311",
+      "phone": "8028687311",
+      "address": "100 Thunder Bird Drive",
+      "city": "Swanton",
+      "schoolname": "Missisquoi Valley Uhs #7",
+      "principal": "Principal Dennis Hill",
+      "district": "TBD",
+      "postalCode": "05488",
+      "state": "VT",
+      "county": ""}},
+{type: "Feature",geometry: {type: "Point",coordinates: [-73.2017039, 42.8992571
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 442-2692",
+      "phone": "8024422692",
+      "address": "181 Orchard Street",
+      "city": "Bennington",
+      "schoolname": "Molly Stark School",
+      "principal": "Principal Michael Mugits",
+      "district": "TBD",
+      "postalCode": "05201",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1389253, 44.2441871
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 453-2314",
+      "phone": "8024532314",
+      "address": "1036 Monkton Road",
+      "city": "No Ferrisburg",
+      "schoolname": "Monkton Central School",
+      "principal": "Principal Betsy Knox",
+      "district": "TBD",
+      "postalCode": "05473",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6162041, 44.8864293
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 326-4618",
+      "phone": "8023264618",
+      "address": "249 School Drive",
+      "city": "Montgomery Ctr",
+      "schoolname": "Montgomery Elementary School",
+      "principal": "Principal Sandra Alexander",
+      "district": "TBD",
+      "postalCode": "05471",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5869944, 44.2605339
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 225-8000",
+      "phone": "8022258000",
+      "address": "5 High School Drive",
+      "city": "Montpelier",
+      "schoolname": "Montpelier High School",
+      "principal": "Principal Michael Mcraith",
+      "district": "TBD",
+      "postalCode": "05602",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2106215, 42.8850209
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 447-7979",
+      "phone": "8024477979",
+      "address": "66 Main Street",
+      "city": "Bennington",
+      "schoolname": "Monument Elementary School",
+      "principal": "Principal Donna Cauley",
+      "district": "TBD",
+      "postalCode": "05201",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.7630619, 44.247814
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 496-3742",
+      "phone": "8024963742",
+      "address": "940 Route 100B",
+      "city": "Moretown",
+      "schoolname": "Moretown Elementary School",
+      "principal": "Principal Duane Pierson",
+      "district": "TBD",
+      "postalCode": "05660",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5855112, 44.5636467
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 888-3101",
+      "phone": "8028883101",
+      "address": "548 Park Street",
+      "city": "Morrisville",
+      "schoolname": "Morristown Elem Schools",
+      "principal": "Principal Ed Oravec",
+      "district": "TBD",
+      "postalCode": "05661",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0939654, 44.1354759
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 453-2333",
+      "phone": "8024532333",
+      "address": "220 Airport Drive",
+      "city": "Bristol",
+      "schoolname": "Mt Abraham Uhs #28",
+      "principal": "Principal Jessica Barewicz",
+      "district": "TBD",
+      "postalCode": "05443",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1913331, 42.8863217
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 447-7511",
+      "phone": "8024477511",
+      "address": "301 Park Street Extension",
+      "city": "Bennington",
+      "schoolname": "Mt Anthony Sr Uhs #14",
+      "principal": "Principal Glenda Cresto",
+      "district": "TBD",
+      "postalCode": "05201",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1877428, 42.9054159
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 447-7541",
+      "phone": "8024477541",
+      "address": "747 East Road",
+      "city": "Bennington",
+      "schoolname": "Mt Anthony Union Middle School",
+      "principal": "Principal Tim Payne",
+      "district": "TBD",
+      "postalCode": "05201",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.823055, 43.44585
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 259-2392",
+      "phone": "8022592392",
+      "address": "150 School Street",
+      "city": "Mount Holly",
+      "schoolname": "Mt Holly School",
+      "principal": "Principal Craig Hutt-Vater",
+      "district": "TBD",
+      "postalCode": "05758",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.962048, 44.486184
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 899-4690",
+      "phone": "8028994690",
+      "address": "211 Browns Trace Rd",
+      "city": "Jericho",
+      "schoolname": "Mt Mansfield Usd",
+      "principal": "Principal Michael Weston",
+      "district": "TBD",
+      "postalCode": "05465",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0552279, 43.8264649
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 247-3721",
+      "phone": "8022473721",
+      "address": "17 Neshobe Circle",
+      "city": "Brandon",
+      "schoolname": "Neshobe School",
+      "principal": "Principal Judith Pulsifer",
+      "district": "TBD",
+      "postalCode": "05733",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.950768, 44.690121
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 467-3401",
+      "phone": "8024673401",
+      "address": "1448 Newark Street",
+      "city": "Newark",
+      "schoolname": "Newark School",
+      "principal": "Principal Jennifer Sicard",
+      "district": "TBD",
+      "postalCode": "05871",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.650055, 42.9599339
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 365-7536",
+      "phone": "8023657536",
+      "address": "14 School Road",
+      "city": "Newfane",
+      "schoolname": "Newbrook Elementary School",
+      "principal": "Principal Scotty Tabachnick",
+      "district": "TBD",
+      "postalCode": "05345",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0603798, 44.0794494
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 866-5621",
+      "phone": "8028665621",
+      "address": "Po Box 68",
+      "city": "Newbury",
+      "schoolname": "Newbury Elementary School",
+      "principal": "Principal Chance Lindsley",
+      "district": "TBD",
+      "postalCode": "05051",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.1921709, 44.9449812
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 334-2455",
+      "phone": "8023342455",
+      "address": "166 Sias Avenue",
+      "city": "Newport",
+      "schoolname": "Newport City Elem Schools",
+      "principal": "Principal Elaine Collins",
+      "district": "TBD",
+      "postalCode": "05855",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3068892, 44.9509976
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 334-5201",
+      "phone": "8023345201",
+      "address": "4212 Vt Route 105",
+      "city": "Newport Center",
+      "schoolname": "Newport Town School",
+      "principal": "Principal Wendy Wood",
+      "district": "TBD",
+      "postalCode": "05857",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3653719, 43.8350684
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 765-4351",
+      "phone": "8027654351",
+      "address": "Po Box 239",
+      "city": "South Strafford",
+      "schoolname": "Newton School",
+      "principal": "Principal Greg Bagnato",
+      "district": "TBD",
+      "postalCode": "05070",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.203537, 44.946129
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 334-7921",
+      "phone": "8023347921",
+      "address": "209 Veterans Ave",
+      "city": "Newport",
+      "schoolname": "North Country Uhs #22A",
+      "principal": "Principal Robert Davis",
+      "district": "TBD",
+      "postalCode": "05855",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.1313134, 44.9493054
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 766-2276",
+      "phone": "8027662276",
+      "address": "57 Junior High Drive",
+      "city": "Derby",
+      "schoolname": "North Country Union Jr High #22B",
+      "principal": "Principal Nicole Corbett",
+      "district": "TBD",
+      "postalCode": "05829",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2634981, 44.8508342
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 372-8866",
+      "phone": "8023728866",
+      "address": "6441 Us Route 2",
+      "city": "North Hero",
+      "schoolname": "North Hero School",
+      "principal": "Principal Joseph Resteghini",
+      "district": "TBD",
+      "postalCode": "05474",
+      "state": "VT",
+      "county": "Grand Isle County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.96212, 43.617752
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 773-1940",
+      "phone": "8027731940",
+      "address": "117 Temple Street",
+      "city": "Rutland",
+      "schoolname": "Northeast Primary School",
+      "principal": "Principal Susanne Engels",
+      "district": "TBD",
+      "postalCode": "05701",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.662072, 44.15455
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 485-6161",
+      "phone": "8024856161",
+      "address": "10 Cross Street",
+      "city": "Northfield",
+      "schoolname": "Northfield Elementary School",
+      "principal": "Principal Wayne Howe",
+      "district": "TBD",
+      "postalCode": "05663",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.660537, 44.153568
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 485-5751",
+      "phone": "8024855751",
+      "address": "37 Cross Street, Unit 2+3",
+      "city": "Northfield",
+      "schoolname": "Northfield Middle-High School",
+      "principal": "Principal Ryan Parkman",
+      "district": "TBD",
+      "postalCode": "05663",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.991417, 43.6127619
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 773-1946",
+      "phone": "8027731946",
+      "address": "80 Pierpoint Avenue",
+      "city": "Rutland",
+      "schoolname": "Northwest Primary School",
+      "principal": "Principal Kristin Hubert",
+      "district": "TBD",
+      "postalCode": "05701",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5579901, 42.8401525
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 254-3740",
+      "phone": "8022543740",
+      "address": "15 Moreland Avenue",
+      "city": "Brattleboro",
+      "schoolname": "Oak Grove School",
+      "principal": "Principal Jeri Curry",
+      "district": "TBD",
+      "postalCode": "05301",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4035558, 44.1490229
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 476-3278",
+      "phone": "8024763278",
+      "address": "357 Us Route 302",
+      "city": "East Barre",
+      "schoolname": "Orange Center School",
+      "principal": "Principal Tim Francke",
+      "district": "TBD",
+      "postalCode": "05649",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.207682, 44.439761
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 652-7300",
+      "phone": "8026527300",
+      "address": "2 Baldwin Avenue",
+      "city": "So Burlington",
+      "schoolname": "Orchard School",
+      "principal": "Principal Mark Trifilio",
+      "district": "TBD",
+      "postalCode": "05403-7316",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.2662366, 43.7200805
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(603) 643-6655",
+      "phone": "6036436655",
+      "address": "Reservoir Road",
+      "city": "Hanover",
+      "schoolname": "Orford Schools",
+      "principal": "Principal Matt Laramie",
+      "district": "TBD",
+      "postalCode": "03755",
+      "state": "NH",
+      "county": "Grafton County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.196754, 44.810055
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 754-6650",
+      "phone": "8027546650",
+      "address": "53 School Street",
+      "city": "Orleans",
+      "schoolname": "Orleans Elementary School",
+      "principal": "Principal Kim Hastings",
+      "district": "TBD",
+      "postalCode": "05860",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.299154, 43.804552
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 948-2871",
+      "phone": "8029482871",
+      "address": "494 Main Street",
+      "city": "Orwell",
+      "schoolname": "Orwell Village School",
+      "principal": "Principal Patrick Walters",
+      "district": "TBD",
+      "postalCode": "05760",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4168673, 43.6494962
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 295-8654",
+      "phone": "8022958654",
+      "address": "Po Box 353",
+      "city": "Quechee",
+      "schoolname": "Ottauquechee School",
+      "principal": "Principal Cathy Newton",
+      "district": "TBD",
+      "postalCode": "05059",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0515465, 43.7671716
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 247-6833",
+      "phone": "8022476833",
+      "address": "2997 Franklin Street",
+      "city": "Brandon",
+      "schoolname": "Otter Valley Uhs #8",
+      "principal": "Principal James Avery",
+      "district": "TBD",
+      "postalCode": "05733",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0515465, 43.7671716
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 247-6833",
+      "phone": "8022476833",
+      "address": "2997 Franklin Street",
+      "city": "Brandon",
+      "schoolname": "Otter Valley Uhs #8",
+      "principal": "Principal Nancy Robinson",
+      "district": "TBD",
+      "postalCode": "05733",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.1139269, 44.0078701
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 222-5214",
+      "phone": "8022225214",
+      "address": "36 Oxbow Drive",
+      "city": "Bradford",
+      "schoolname": "Oxbow Uhs #30",
+      "principal": "Principal Doug Harris",
+      "district": "TBD",
+      "postalCode": "05033",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.16652, 44.326018
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 592-3513",
+      "phone": "8025923513",
+      "address": "340 Bailey Hazen Road",
+      "city": "Peacham",
+      "schoolname": "Peacham Elementary School",
+      "principal": "Principal Ashley Gray",
+      "district": "TBD",
+      "postalCode": "05862",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.590118, 44.5626651
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 888-4600",
+      "phone": "8028884600",
+      "address": "202 Copley Avenue",
+      "city": "Morrisville",
+      "schoolname": "Peoples Academy",
+      "principal": "Principal Philip Grant",
+      "district": "TBD",
+      "postalCode": "05661",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.590118, 44.5626651
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 888-4600",
+      "phone": "8028884600",
+      "address": "202 Copley Avenue",
+      "city": "Morrisville",
+      "schoolname": "Peoples Academy Middle School",
+      "principal": "Principal Karen Weeks",
+      "district": "TBD",
+      "postalCode": "05661",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2553252, 44.5412597
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 862-7842",
+      "phone": "8028627842",
+      "address": "Po Box 32",
+      "city": "Colchester",
+      "schoolname": "Porters Point School",
+      "principal": "Principal Carolyn Millham",
+      "district": "TBD",
+      "postalCode": "05446",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.237674, 43.524576
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 287-5212",
+      "phone": "8022875212",
+      "address": "96 School Circle",
+      "city": "Poultney",
+      "schoolname": "Poultney Elementary School",
+      "principal": "Principal Kristen Caliguiri",
+      "district": "TBD",
+      "postalCode": "05764",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2294684, 43.5165455
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 287-5861",
+      "phone": "8022875861",
+      "address": "154 East Main Street",
+      "city": "Poultney",
+      "schoolname": "Poultney High School",
+      "principal": "Principal Joe Debonis",
+      "district": "TBD",
+      "postalCode": "05764",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2179873, 42.8008263
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 823-7333",
+      "phone": "8028237333",
+      "address": "94 Schoolhouse Road",
+      "city": "Pownal",
+      "schoolname": "Pownal Elementary School",
+      "principal": "Principal Todd Phillips",
+      "district": "TBD",
+      "postalCode": "05261",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.038619, 43.6618191
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 459-2225",
+      "phone": "8024592225",
+      "address": "14 School Street",
+      "city": "Proctor",
+      "schoolname": "Proctor Elementary School",
+      "principal": "Principal Christy Coloutti",
+      "district": "TBD",
+      "postalCode": "05765",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0291312, 43.6550274
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 459-3353",
+      "phone": "8024593353",
+      "address": "4 Park Street",
+      "city": "Proctor",
+      "schoolname": "Proctor Jr-Sr High School",
+      "principal": "Principal Deborah Rodolfy",
+      "district": "TBD",
+      "postalCode": "05765",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5284672, 42.9858892
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 387-5521",
+      "phone": "8023875521",
+      "address": "182 Westminster Road",
+      "city": "Putney",
+      "schoolname": "Putney Central School",
+      "principal": "Principal Herve Pelletier",
+      "district": "TBD",
+      "postalCode": "05346",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6604606, 43.9338797
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 728-9555",
+      "phone": "8027289555",
+      "address": "40 Ayers Brook Road",
+      "city": "Randolph",
+      "schoolname": "Randolph Elementary School",
+      "principal": "Principal Erica Mclaughlin",
+      "district": "TBD",
+      "postalCode": "05060",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6604606, 43.9338797
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 728-9555",
+      "phone": "8027289555",
+      "address": "40 Ayers Brook Road",
+      "city": "Randolph",
+      "schoolname": "Randolph Elementary School",
+      "principal": "Principal Pat Miller",
+      "district": "TBD",
+      "postalCode": "05060",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.659752, 43.930991
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 728-3397",
+      "phone": "8027283397",
+      "address": "15 Forest Street",
+      "city": "Randolph",
+      "schoolname": "Randolph Uhs #2",
+      "principal": "Principal David Barnett",
+      "district": "TBD",
+      "postalCode": "05060",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.659752, 43.930991
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 728-3397",
+      "phone": "8027283397",
+      "address": "15 Forest Street",
+      "city": "Randolph",
+      "schoolname": "Randolph Uhs #2",
+      "principal": "Principal Elijah Hawkes",
+      "district": "TBD",
+      "postalCode": "05060",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.536659, 43.453125
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 484-7230",
+      "phone": "8024847230",
+      "address": "Po Box 176",
+      "city": "Reading",
+      "schoolname": "Reading Elementary School",
+      "principal": "Principal Catherine Knight",
+      "district": "TBD",
+      "postalCode": "05062",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.940575, 42.771786
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 423-7786",
+      "phone": "8024237786",
+      "address": "301 Phelps Lane",
+      "city": "Readsboro",
+      "schoolname": "Readsboro Elementary School",
+      "principal": "Principal Barbara Barrett",
+      "district": "TBD",
+      "postalCode": "05350",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6802834, 44.9859909
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 848-7453",
+      "phone": "8028487453",
+      "address": "1 Elementary School Road",
+      "city": "Richford",
+      "schoolname": "Richford Elementary School",
+      "principal": "Principal Beth Obrien",
+      "district": "TBD",
+      "postalCode": "05476",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.670086, 44.995025
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 848-7416",
+      "phone": "8028487416",
+      "address": "1 Corliss Heights",
+      "city": "Richford",
+      "schoolname": "Richford Jr-Sr High School",
+      "principal": "Principal Beth Obrien",
+      "district": "TBD",
+      "postalCode": "05476",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9939168, 44.4126297
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 434-2461",
+      "phone": "8024342461",
+      "address": "125 School Street",
+      "city": "Richmond",
+      "schoolname": "Richmond Elementary School",
+      "principal": "Principal Theresa Layton",
+      "district": "TBD",
+      "postalCode": "05477",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1769103, 44.467307
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 652-7200",
+      "phone": "8026527200",
+      "address": "10 Market Street",
+      "city": "So Burlington",
+      "schoolname": "Rick Marcotte Central School",
+      "principal": "Principal Brent Coon",
+      "district": "TBD",
+      "postalCode": "05403-5779",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0382352, 43.9852144
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 388-2208",
+      "phone": "8023882208",
+      "address": "753 Ripton Lincoln Road",
+      "city": "Ripton",
+      "schoolname": "Ripton Elementary School",
+      "principal": "Principal Tracey Harrington",
+      "district": "TBD",
+      "postalCode": "05766",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.1376509, 43.899294
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(603) 353-4321",
+      "phone": "6033534321",
+      "address": "2972 Rte 25A",
+      "city": "Orford",
+      "schoolname": "Rivendell Academy",
+      "principal": "Principal Keri Gelenian",
+      "district": "TBD",
+      "postalCode": "03777",
+      "state": "NH",
+      "county": "Grafton County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4971886, 43.3045496
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 885-8490",
+      "phone": "8028858490",
+      "address": "13 Fairground Road",
+      "city": "Springfield",
+      "schoolname": "Riverside Middle School",
+      "principal": "Principal Steve Cone",
+      "district": "TBD",
+      "postalCode": "05156",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.057693, 44.223866
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 453-2949",
+      "phone": "8024532949",
+      "address": "41 Parsonage Road",
+      "city": "Starksboro",
+      "schoolname": "Robinson School",
+      "principal": "Principal Edorah Frazer",
+      "district": "TBD",
+      "postalCode": "05487",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8091872, 43.8717466
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 767-3161",
+      "phone": "8027673161",
+      "address": "222 South Main Street",
+      "city": "Rochester",
+      "schoolname": "Rochester School",
+      "principal": "Principal Dani Stamm",
+      "district": "TBD",
+      "postalCode": "05767-9679",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.733185, 44.092411
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 485-7768",
+      "phone": "8024857768",
+      "address": "1559 Roxbury Road",
+      "city": "Roxbury",
+      "schoolname": "Roxbury Village School",
+      "principal": "Principal Aimee Toth",
+      "district": "TBD",
+      "postalCode": "05669",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.602592, 44.351158
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 223-5429",
+      "phone": "8022235429",
+      "address": "433 Shady Rill Road",
+      "city": "Middlesex",
+      "schoolname": "Rumney Memorial School (Middlesex)",
+      "principal": "Principal Adam Rosen",
+      "district": "TBD",
+      "postalCode": "05602",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9546905, 43.6174987
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 770-1074",
+      "phone": "8027701074",
+      "address": "22 Stratton Road",
+      "city": "Rutland",
+      "schoolname": "Rutland High School",
+      "principal": "Principal Bill Olsen",
+      "district": "TBD",
+      "postalCode": "05701",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9797488, 43.6131406
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 773-1932",
+      "phone": "8027731932",
+      "address": "63-65 Library Avenue",
+      "city": "Rutland",
+      "schoolname": "Rutland Intermediate School",
+      "principal": "Principal James Slenker",
+      "district": "TBD",
+      "postalCode": "05701",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9809901, 43.6129104
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 773-1960",
+      "phone": "8027731960",
+      "address": "63-65 Library Ave",
+      "city": "Rutland",
+      "schoolname": "Rutland Middle School",
+      "principal": "Principal Robert Johnson",
+      "district": "TBD",
+      "postalCode": "05701",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9634995, 43.6386836
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 775-0566",
+      "phone": "8027750566",
+      "address": "1612 Post Road",
+      "city": "Rutland Town",
+      "schoolname": "Rutland Town Elem School",
+      "principal": "Principal Aaron Boynton",
+      "district": "TBD",
+      "postalCode": "05701",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.11792, 43.9197119
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 352-4291",
+      "phone": "8023524291",
+      "address": "286 Kelley Cross Road",
+      "city": "Salisbury",
+      "schoolname": "Salisbury Community School",
+      "principal": "Principal Fernanda Canales",
+      "district": "TBD",
+      "postalCode": "05769",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.1461984, 43.9079275
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 333-9755",
+      "phone": "8023339755",
+      "address": "Po Box 66",
+      "city": "Fairlee",
+      "schoolname": "Samuel Morey Elementary School",
+      "principal": "Principal Michael Foxall",
+      "district": "TBD",
+      "postalCode": "05045",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.509491, 43.140396
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 869-2637",
+      "phone": "8028692637",
+      "address": "Po Box 308",
+      "city": "Saxtons River",
+      "schoolname": "Saxtons River Elem School",
+      "principal": "Principal Nancy Erickson",
+      "district": "TBD",
+      "postalCode": "05154",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.207977, 42.945183
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 442-4373",
+      "phone": "8024424373",
+      "address": "150 Buck Hill Road",
+      "city": "Shaftsbury",
+      "schoolname": "Shaftsbury Elem School",
+      "principal": "Principal Jeff Johnson",
+      "district": "TBD",
+      "postalCode": "05262",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.456039, 43.7849689
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 763-7425",
+      "phone": "8027637425",
+      "address": "75 Route 132",
+      "city": "Sharon",
+      "schoolname": "Sharon Elementary School",
+      "principal": "Principal Barrett Williams",
+      "district": "TBD",
+      "postalCode": "05065",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2353556, 44.3807539
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 985-3331",
+      "phone": "8029853331",
+      "address": "345 Harbor Rd",
+      "city": "Shelburne",
+      "schoolname": "Shelburne Community School",
+      "principal": "Principal Allan Miller",
+      "district": "TBD",
+      "postalCode": "05482",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2353556, 44.3807539
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 985-3331",
+      "phone": "8029853331",
+      "address": "345 Harbor Road",
+      "city": "Shelburne",
+      "schoolname": "Shelburne Community School",
+      "principal": "Principal Patricia Beaumont",
+      "district": "TBD",
+      "postalCode": "05482",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.969269, 44.900993
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 933-4909",
+      "phone": "8029334909",
+      "address": "78 Poor Farm Road",
+      "city": "Sheldon",
+      "schoolname": "Sheldon Elementary School",
+      "principal": "Principal Christie Martin",
+      "district": "TBD",
+      "postalCode": "05483",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.316238, 43.891708
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 897-7181",
+      "phone": "8028977181",
+      "address": "130 School Road",
+      "city": "Shoreham",
+      "schoolname": "Shoreham Elementary School",
+      "principal": "Principal Michael Lenox",
+      "district": "TBD",
+      "postalCode": "05770",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.830734, 43.5255129
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 492-3435",
+      "phone": "8024923435",
+      "address": "300 Mountain School Road",
+      "city": "Cuttingsville",
+      "schoolname": "Shrewsbury Mountain School",
+      "principal": "Principal Debra Fishwick",
+      "district": "TBD",
+      "postalCode": "05738",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.876854, 44.373783
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 434-2757",
+      "phone": "8024342757",
+      "address": "2712 Theodore Roosevelt Hwy",
+      "city": "Bolton",
+      "schoolname": "Smilie Memorial School(Bolton)",
+      "principal": "Principal Barbara Tomasi Gay",
+      "district": "TBD",
+      "postalCode": "05676",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.177891, 44.454924
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 652-7000",
+      "phone": "8026527000",
+      "address": "550 Dorset Street",
+      "city": "So Burlington",
+      "schoolname": "So Burlington High School",
+      "principal": "Principal Patrick Burke",
+      "district": "TBD",
+      "postalCode": "05403-6296",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.517403, 43.819316
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 763-8844",
+      "phone": "8027638844",
+      "address": "223 South Windsor St",
+      "city": "South Royalton",
+      "schoolname": "So Royalton Elem-High School",
+      "principal": "Principal Dean Stearns",
+      "district": "TBD",
+      "postalCode": "05068",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4935438, 44.1894129
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 476-4811",
+      "phone": "8024764811",
+      "address": "155 Ayers Street",
+      "city": "Barre",
+      "schoolname": "Spaulding Uhs #41",
+      "principal": "Principal  ",
+      "district": "TBD",
+      "postalCode": "05641",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4935438, 44.1894129
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 476-4811",
+      "phone": "8024764811",
+      "address": "155 Ayers Street",
+      "city": "Barre",
+      "schoolname": "Spaulding Uhs #41",
+      "principal": "Principal Brenda Waterhouse",
+      "district": "TBD",
+      "postalCode": "05641",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4781557, 43.2811126
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 885-8482",
+      "phone": "8028858482",
+      "address": "303 South Street",
+      "city": "Springfield",
+      "schoolname": "Springfield High School",
+      "principal": "Principal  ",
+      "district": "TBD",
+      "postalCode": "05156",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4781557, 43.2811126
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 885-8482",
+      "phone": "8028858482",
+      "address": "303 South Street",
+      "city": "Springfield",
+      "schoolname": "Springfield High School",
+      "principal": "Principal Belinda Hathorn",
+      "district": "TBD",
+      "postalCode": "05156",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0918318, 44.8203212
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 527-0565",
+      "phone": "8025270565",
+      "address": "29 Bellows Street",
+      "city": "St Albans",
+      "schoolname": "St Albans City School",
+      "principal": "Principal Joan Cavallo",
+      "district": "TBD",
+      "postalCode": "05478",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0860045, 44.8016334
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 527-7191",
+      "phone": "8025277191",
+      "address": "169 South Main Street",
+      "city": "St Albans",
+      "schoolname": "St Albans Town Educ Center",
+      "principal": "Principal Angela Stebbins",
+      "district": "TBD",
+      "postalCode": "05478-1898",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0193373, 44.4165493
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 748-8171",
+      "phone": "8027488171",
+      "address": "1000 Main Street",
+      "city": "St Johnsbury",
+      "schoolname": "St Johnsbury Academy",
+      "principal": "Principal Thomas Lovett",
+      "district": "TBD",
+      "postalCode": "05819",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0244301, 44.4162817
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 748-8616",
+      "phone": "8027488616",
+      "address": "257 Western Avenue Suite 2",
+      "city": "St Johnsbury",
+      "schoolname": "St Johnsbury Schools",
+      "principal": "Principal Jenna O Farrell",
+      "district": "TBD",
+      "postalCode": "05819",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0244301, 44.4162817
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 748-8616",
+      "phone": "8027488616",
+      "address": "257 Western Avenue Suite 2",
+      "city": "St Johnsbury",
+      "schoolname": "St Johnsbury Schools",
+      "principal": "Principal Michael Redmon",
+      "district": "TBD",
+      "postalCode": "05819",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0672467, 42.7549141
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 694-1379",
+      "phone": "8026941379",
+      "address": "986 Main Road",
+      "city": "Stamford",
+      "schoolname": "Stamford Elementary School",
+      "principal": "Principal Garth Grennan",
+      "district": "TBD",
+      "postalCode": "05352",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.7180883, 43.7642684
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 234-9248",
+      "phone": "8022349248",
+      "address": "2933 Vt Route 107",
+      "city": "Stockbridge",
+      "schoolname": "Stockbridge Central School",
+      "principal": "Principal Barbara Woods",
+      "district": "TBD",
+      "postalCode": "05772",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6842541, 44.4630988
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 253-4154",
+      "phone": "8022534154",
+      "address": "Po Box 760",
+      "city": "Stowe",
+      "schoolname": "Stowe Elementary School",
+      "principal": "Principal Martha Sorrell Lacasse",
+      "district": "TBD",
+      "postalCode": "05672",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.726585, 44.46533
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 253-7229",
+      "phone": "8022537229",
+      "address": "413 Barrows Rd",
+      "city": "Stowe",
+      "schoolname": "Stowe Middle-High School",
+      "principal": "Principal Daniel Morrison",
+      "district": "TBD",
+      "postalCode": "05672-1314",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.726585, 44.46533
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 253-7229",
+      "phone": "8022537229",
+      "address": "413 Barrows Rd",
+      "city": "Stowe",
+      "schoolname": "Stowe Middle-High School",
+      "principal": "Principal Jeff Maher",
+      "district": "TBD",
+      "postalCode": "05672-1314",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.185951, 43.822178
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 623-7771",
+      "phone": "8026237771",
+      "address": "31 Schoolhouse Road",
+      "city": "Brandon",
+      "schoolname": "Sudbury Country School",
+      "principal": "Principal Ed Barnwell",
+      "district": "TBD",
+      "postalCode": "05733",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.11366, 44.493408
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 878-1377",
+      "phone": "8028781377",
+      "address": "17 Summit Street",
+      "city": "Essex Junction",
+      "schoolname": "Summit Street School",
+      "principal": "Principal Suzanne Gruendling",
+      "district": "TBD",
+      "postalCode": "05452",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1277208, 43.0846207
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 375-6100",
+      "phone": "8023756100",
+      "address": "98 Bear Ridge Rd",
+      "city": "Sunderland",
+      "schoolname": "Sunderland Elem School",
+      "principal": "Principal Skyler Labombard",
+      "district": "TBD",
+      "postalCode": "05250",
+      "state": "VT",
+      "county": "Bennington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2167958, 44.484143
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 864-8480",
+      "phone": "8028648480",
+      "address": "123 North Street",
+      "city": "Burlington",
+      "schoolname": "Sustain Acad At Lawrence Barnes",
+      "principal": "Principal Lashawn Whitmore Sells",
+      "district": "TBD",
+      "postalCode": "05401",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0278777, 44.6335849
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 467-3492",
+      "phone": "8024673492",
+      "address": "95 Underpass Road",
+      "city": "Sutton",
+      "schoolname": "Sutton Village School",
+      "principal": "Principal Kenneth Hayes",
+      "district": "TBD",
+      "postalCode": "05867-9739",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1147285, 44.9160554
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 868-4920",
+      "phone": "8028684920",
+      "address": "24 Fourth Street",
+      "city": "Swanton",
+      "schoolname": "Swanton Schools",
+      "principal": "Principal Dena St Amour",
+      "district": "TBD",
+      "postalCode": "05488",
+      "state": "VT",
+      "county": "Franklin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.753139, 44.339128
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 244-7195",
+      "phone": "8022447195",
+      "address": "47 Stowe Street",
+      "city": "Waterbury",
+      "schoolname": "Thatcher Brook Primary Us #45",
+      "principal": "Principal Denise Goodnow",
+      "district": "TBD",
+      "postalCode": "05676",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.753139, 44.339128
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 244-7195",
+      "phone": "8022447195",
+      "address": "47 Stowe Street",
+      "city": "Waterbury",
+      "schoolname": "Thatcher Brook Primary Us #45",
+      "principal": "Principal Stephanie Hudak",
+      "district": "TBD",
+      "postalCode": "05676",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.528949, 43.653466
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 457-2067",
+      "phone": "8024572067",
+      "address": "Po Box 130",
+      "city": "So Pomfret",
+      "schoolname": "The Prosper Valley Sch",
+      "principal": "Principal Lisa Sjostrom",
+      "district": "TBD",
+      "postalCode": "05067",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.2312088, 43.8144932
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 785-4805",
+      "phone": "8027854805",
+      "address": "Po Box 190",
+      "city": "Thetford",
+      "schoolname": "Thetford Academy",
+      "principal": "Principal William Bugg",
+      "district": "TBD",
+      "postalCode": "05074",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.2318682, 43.8195834
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 785-2426",
+      "phone": "8027852426",
+      "address": "Po Box 182",
+      "city": "Thetford",
+      "schoolname": "Thetford Elementary School",
+      "principal": "Principal Kevin Petrone",
+      "district": "TBD",
+      "postalCode": "05074",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.113504, 44.49478
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 878-1381",
+      "phone": "8028781381",
+      "address": "9 Prospect Street",
+      "city": "Essex Junction",
+      "schoolname": "Thomas Fleming School",
+      "principal": "Principal Daniel Ryan",
+      "district": "TBD",
+      "postalCode": "05452",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0510709, 43.4494929
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 446-2458",
+      "phone": "8024462458",
+      "address": "573 Route 140",
+      "city": "Tinmouth",
+      "schoolname": "Tinmouth Elementary School",
+      "principal": "Principal Maureen Fitzgerald Riker",
+      "district": "TBD",
+      "postalCode": "05773",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6695342, 43.0466625
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 365-7506",
+      "phone": "8023657506",
+      "address": "Po Box 236",
+      "city": "Townshend",
+      "schoolname": "Townshend Village School",
+      "principal": "Principal Deborah Leggott",
+      "district": "TBD",
+      "postalCode": "05353",
+      "state": "VT",
+      "county": ""}},
+{type: "Feature",geometry: {type: "Point",coordinates: [-72.405022, 44.995964
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 988-2565",
+      "phone": "8029882565",
+      "address": "Po Box 110",
+      "city": "North Troy",
+      "schoolname": "Troy Elementary School",
+      "principal": "Principal Chris Young",
+      "district": "TBD",
+      "postalCode": "05859",
+      "state": "VT",
+      "county": "Orleans County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.474808, 43.916965
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 889-3310",
+      "phone": "8028893310",
+      "address": "523 Route 110",
+      "city": "Tunbridge",
+      "schoolname": "Tunbridge Central School",
+      "principal": "Principal Scott Farnsworth",
+      "district": "TBD",
+      "postalCode": "05077",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.862106, 42.888988
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 464-5177",
+      "phone": "8024645177",
+      "address": "360 Rt 100 North",
+      "city": "Wilmington",
+      "schoolname": "Twin Valley Elem School",
+      "principal": "Principal Rebecca Fillion",
+      "district": "TBD",
+      "postalCode": "05363-9634",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8401605, 42.7879692
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 368-2880",
+      "phone": "8023682880",
+      "address": "4299 Vt Rt 100",
+      "city": "Whitingham",
+      "schoolname": "Twin Valley Middle High School",
+      "principal": "Principal Thomas Fitzgerald",
+      "district": "TBD",
+      "postalCode": "05361",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3947042, 44.2979839
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 426-3213",
+      "phone": "8024263213",
+      "address": "106 Nasmith Brook Road",
+      "city": "Plainfield",
+      "schoolname": "Twinfield Us #33",
+      "principal": "Principal Mark Mooney",
+      "district": "TBD",
+      "postalCode": "05667",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5267125, 44.2445261
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 229-0321",
+      "phone": "8022290321",
+      "address": "930 Gallison Hill Road",
+      "city": "Montpelier",
+      "schoolname": "U32 Uhs #32",
+      "principal": "Principal Steven Dellinger Pate",
+      "district": "TBD",
+      "postalCode": "05602",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8951245, 44.5089403
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 899-4676",
+      "phone": "8028994676",
+      "address": "6 Irish Settlement Road",
+      "city": "Underhill Ctr",
+      "schoolname": "Underhill Central Elementary School",
+      "principal": "Principal Barbara Nason",
+      "district": "TBD",
+      "postalCode": "05490-9998",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9456161, 44.5179951
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 899-4680",
+      "phone": "8028994680",
+      "address": "10 River Road",
+      "city": "Jericho",
+      "schoolname": "Underhill Id Elementary School",
+      "principal": "Principal David Wells",
+      "district": "TBD",
+      "postalCode": "05465",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5711386, 44.2596714
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 223-6343",
+      "phone": "8022236343",
+      "address": "1 Park Avenue",
+      "city": "Montpelier",
+      "schoolname": "Union Elementary School",
+      "principal": "Principal Christopher Hennessey",
+      "district": "TBD",
+      "postalCode": "05602",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1601394, 44.5490086
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 878-2117",
+      "phone": "8028782117",
+      "address": "Po Box 48",
+      "city": "Colchester",
+      "schoolname": "Union Memorial School",
+      "principal": "Principal Chris Antonicci",
+      "district": "TBD",
+      "postalCode": "05446-0160",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4880611, 43.2955001
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 885-5155",
+      "phone": "8028855155",
+      "address": "43 Union Street",
+      "city": "Springfield",
+      "schoolname": "Union Street School",
+      "principal": "Principal Nancy Wiese",
+      "district": "TBD",
+      "postalCode": "05156",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2480837, 44.1671634
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 877-3761",
+      "phone": "8028773761",
+      "address": "43 East Street",
+      "city": "Vergennes",
+      "schoolname": "Vergennes Ues #44",
+      "principal": "Principal Matthew Deblois",
+      "district": "TBD",
+      "postalCode": "05491",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.2431089, 44.1699484
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 877-2938",
+      "phone": "8028772938",
+      "address": "50 Monkton Road",
+      "city": "Vergennes",
+      "schoolname": "Vergennes Uhs #5",
+      "principal": "Principal Stephanie Taylor",
+      "district": "TBD",
+      "postalCode": "05491",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.518569, 42.776263
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 254-5373",
+      "phone": "8022545373",
+      "address": "Governor Hunt Road",
+      "city": "Vernon",
+      "schoolname": "Vernon Elementary School",
+      "principal": "Principal Dana Gordon Macey",
+      "district": "TBD",
+      "postalCode": "05354",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.261316, 44.0797483
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 439-5534",
+      "phone": "8024395534",
+      "address": "6 Waits River Valley Road",
+      "city": "East Corinth",
+      "schoolname": "Waits River Valley Us #36",
+      "principal": "Principal Carlotta Simonds Perantoni",
+      "district": "TBD",
+      "postalCode": "05040",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8193328, 44.1944527
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 496-3643",
+      "phone": "8024963643",
+      "address": "3951 Main Street",
+      "city": "Waitsfield",
+      "schoolname": "Waitsfield Elem School",
+      "principal": "Principal Kaiya Korb",
+      "district": "TBD",
+      "postalCode": "05673",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.219322, 44.452801
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 563-3000",
+      "phone": "8025633000",
+      "address": "135 Cahoon Farm Road",
+      "city": "West Danville",
+      "schoolname": "Walden School",
+      "principal": "Principal Elizabeth Benoit",
+      "district": "TBD",
+      "postalCode": "05873",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.9751579, 43.470547
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 446-2141",
+      "phone": "8024462141",
+      "address": "126 School Street",
+      "city": "Wallingford",
+      "schoolname": "Wallingford Village School",
+      "principal": "Principal Helen Richards-Peelle",
+      "district": "TBD",
+      "postalCode": "05773",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.7872992, 43.0479574
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 896-6210",
+      "phone": "8028966210",
+      "address": "Po Box 107",
+      "city": "Wardsboro",
+      "schoolname": "Wardsboro Central School",
+      "principal": "Principal Rosemary Fitzsimons",
+      "district": "TBD",
+      "postalCode": "05355",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.851123, 44.1162276
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 496-2487",
+      "phone": "8024962487",
+      "address": "293 School Road",
+      "city": "Warren",
+      "schoolname": "Warren Elementary School",
+      "principal": "Principal Elizabeth Peterson",
+      "district": "TBD",
+      "postalCode": "05674",
+      "state": "VT",
+      "county": "Washington County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4315601, 44.1078548
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 883-2312",
+      "phone": "8028832312",
+      "address": "72 School Lane",
+      "city": "Washington",
+      "schoolname": "Washington Village School",
+      "principal": "Principal Amy Harlow",
+      "district": "TBD",
+      "postalCode": "05675",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.927544, 44.4025729
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 748-9393",
+      "phone": "8027489393",
+      "address": "276 Duck Pond Road",
+      "city": "St Johnsbury",
+      "schoolname": "Waterford Elementary School",
+      "principal": "Principal Kelley Brooks",
+      "district": "TBD",
+      "postalCode": "05819-0276",
+      "state": "VT",
+      "county": "Caledonia County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.74841, 44.726855
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 644-2224",
+      "phone": "8026442224",
+      "address": "3414 Vt Route 109",
+      "city": "Waterville",
+      "schoolname": "Waterville Elementary School",
+      "principal": "Principal Kathleen Torrey",
+      "district": "TBD",
+      "postalCode": "05492-9708",
+      "state": "VT",
+      "county": "Lamoille County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.4097514, 43.4112673
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 674-5400",
+      "phone": "8026745400",
+      "address": "Po Box 279",
+      "city": "Ascutney",
+      "schoolname": "Weathersfield School",
+      "principal": "Principal Jean Oakman",
+      "district": "TBD",
+      "postalCode": "05030",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.206711, 43.417881
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 645-0386",
+      "phone": "8026450386",
+      "address": "135 Vt Route 30",
+      "city": "Wells",
+      "schoolname": "Wells Village School",
+      "principal": "Principal Lisa Yates",
+      "district": "TBD",
+      "postalCode": "05774",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0515556, 43.5954663
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 438-2288",
+      "phone": "8024382288",
+      "address": "713 Main Street",
+      "city": "West Rutland",
+      "schoolname": "West Rutland School",
+      "principal": "Principal Sarah Merrill",
+      "district": "TBD",
+      "postalCode": "05777",
+      "state": "VT",
+      "county": "Rutland County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0189539, 44.602952
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 878-5932",
+      "phone": "8028785932",
+      "address": "146 Brookside Road",
+      "city": "Westford",
+      "schoolname": "Westford Elementary School",
+      "principal": "Principal Marcie Lewis",
+      "district": "TBD",
+      "postalCode": "05494",
+      "state": "VT",
+      "county": "Chittenden County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.463478, 43.070309
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 722-3241",
+      "phone": "8027223241",
+      "address": "301 School St",
+      "city": "Westminster",
+      "schoolname": "Westminster Schools",
+      "principal": "Principal Douglas Kussius",
+      "district": "TBD",
+      "postalCode": "05158",
+      "state": "VT",
+      "county": "Windham County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.2630234, 43.9065664
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 333-4668",
+      "phone": "8023334668",
+      "address": "744 Vt Rt 113",
+      "city": "West Fairlee",
+      "schoolname": "Westshire School",
+      "principal": "Principal Tammy Macqueen",
+      "district": "TBD",
+      "postalCode": "05083",
+      "state": "VT",
+      "county": "Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.212502, 44.04174
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 545-2113",
+      "phone": "8025452113",
+      "address": "210 Quaker Village Road",
+      "city": "Middlebury",
+      "schoolname": "Weybridge Elementary School",
+      "principal": "Principal Christina Johnston",
+      "district": "TBD",
+      "postalCode": "05753",
+      "state": "VT",
+      "county": "Addison County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6435, 43.833232
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 234-9966",
+      "phone": "8022349966",
+      "address": "273 Pleasant St",
+      "city": "Bethel",
+      "schoolname": "Whitcomb Jr-Sr High School",
+      "principal": "Principal Owen Bradley",
+      "district": "TBD",
+      "postalCode": "05032",
+      "state": "VT",
+      "county": "Windsor County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.3181378, 43.6533157
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 295-8650",
+      "phone": "8022958650",
+      "address": "102 Pine Street",
+      "city": "White River Jct",
+      "schoolname": "White River School",
+      "principal": "Principal Sheila Powers",
+      "district": "TBD",
+      "postalCode": "05001",
+      "state": "VT",
+      "county": "Windsor County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-73.2015179, 43.858121
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 623-7991",
+      "phone": "8026237991",
+      "address": "87 South Main Street",
+      "city": "Whiting",
+      "schoolname": "Whiting Village School",
+      "principal": "Principal Ed Barnwell",
+      "district": "TBD",
+      "postalCode": "05778",
+      "state": "VT",
+      "county": "Addison County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-72.545708, 44.123554
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 443-6653",
+      "phone": "8024436653",
+      "address": "100 Brush Hill Road",
+      "city": "Williamstown",
+      "schoolname": "Williamstown Elem School",
+      "principal": "Principal Jamie Kinnarney",
+      "district": "TBD",
+      "postalCode": "05679",
+      "state": "VT",
+      "county": "Orange County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-72.546661, 44.1262355
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 433-5359",
+      "phone": "8024335359",
+      "address": "Po Box 507",
+      "city": "Williamstown",
+      "schoolname": "Williamstown Middle-High School",
+      "principal": "Principal Scott Lang",
+      "district": "TBD",
+      "postalCode": "05679",
+      "state": "VT",
+      "county": "Orange County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-73.073311, 44.44059
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 871-6203",
+      "phone": "8028716203",
+      "address": "195 Central School Drive",
+      "city": "Williston",
+      "schoolname": "Williston Schools",
+      "principal": "Principal Gregory Marino",
+      "district": "TBD",
+      "postalCode": "05495",
+      "state": "VT",
+      "county": "Chittenden County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-73.073311, 44.44059
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 871-6203",
+      "phone": "8028716203",
+      "address": "195 Central School Drive",
+      "city": "Williston",
+      "schoolname": "Williston Schools",
+      "principal": "Principal Jackie Parks",
+      "district": "TBD",
+      "postalCode": "05495",
+      "state": "VT",
+      "county": "Chittenden County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-73.096256, 44.447771
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 871-6203",
+      "phone": "8028716203",
+      "address": "497 Talcott Road",
+      "city": "Williston",
+      "schoolname": "Williston Schools",
+      "principal": "Principal John Terko",
+      "district": "TBD",
+      "postalCode": "05495",
+      "state": "VT",
+      "county": "Chittenden County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-72.7253414, 43.1658297
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 874-4159",
+      "phone": "8028744159",
+      "address": "5940 Windham Road",
+      "city": "West Townshend",
+      "schoolname": "Windham Elementary School",
+      "principal": "Principal Mickey Parker Jennings",
+      "district": "TBD",
+      "postalCode": "05359",
+      "state": "VT",
+      "county": "Windham County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-72.394295, 43.48093
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 674-2310",
+      "phone": "8026742310",
+      "address": "127 State St",
+      "city": "Windsor",
+      "schoolname": "Windsor School",
+      "principal": "Principal Tiffany Cassano",
+      "district": "TBD",
+      "postalCode": "05089",
+      "state": "VT",
+      "county": "Windsor County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-73.18101, 44.501157
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 655-3531",
+      "phone": "8026553531",
+      "address": "60 Normand Street",
+      "city": "Winooski",
+      "schoolname": "Winooski High School",
+      "principal": "Principal Leon Wheeler",
+      "district": "TBD",
+      "postalCode": "05404-1392",
+      "state": "VT",
+      "county": "Chittenden County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-73.18101, 44.501157
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 655-3530",
+      "phone": "8026553530",
+      "address": "80 Normand Street",
+      "city": "Winooski",
+      "schoolname": "Winooski Middle School",
+      "principal": "Principal Leon Wheeler",
+      "district": "TBD",
+      "postalCode": "05404-1392",
+      "state": "VT",
+      "county": "Chittenden County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-72.453148, 44.538219
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 472-6551",
+      "phone": "8024726551",
+      "address": "Po Box 179",
+      "city": "Wolcott",
+      "schoolname": "Wolcott Elementary School",
+      "principal": "Principal Matt Foster",
+      "district": "TBD",
+      "postalCode": "05680",
+      "state": "VT",
+      "county": "Lamoille County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-72.416224, 44.440035
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 472-5715",
+      "phone": "8024725715",
+      "address": "Pob 328",
+      "city": "Woodbury",
+      "schoolname": "Woodbury Elementary School",
+      "principal": "Principal Amy Masse",
+      "district": "TBD",
+      "postalCode": "05681",
+      "state": "VT",
+      "county": "Washington County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-73.136866, 42.8939304
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 442-4071",
+      "phone": "8024424071",
+      "address": "995 Vt Route 9",
+      "city": "Bennington",
+      "schoolname": "Woodford Hollow School",
+      "principal": "Principal Sandy Foster",
+      "district": "TBD",
+      "postalCode": "05201",
+      "state": "VT",
+      "county": "Bennington County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-73.1447091, 44.5022201
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 655-4990",
+      "phone": "8026554990",
+      "address": "26 Woodside Drive East",
+      "city": "Colchester",
+      "schoolname": "Woodside Juvenile Rehab Center",
+      "principal": "Principal Judy Christenson",
+      "district": "TBD",
+      "postalCode": "05446",
+      "state": "VT",
+      "county": "Chittenden County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-72.519711, 43.622024
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 457-2522",
+      "phone": "8024572522",
+      "address": "15 South Street",
+      "city": "Woodstock",
+      "schoolname": "Woodstock Elementary School",
+      "principal": "Principal Maggie Mills",
+      "district": "TBD",
+      "postalCode": "05091",
+      "state": "VT",
+      "county": "Windsor County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-72.54568, 43.613313
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 457-1317",
+      "phone": "8024571317",
+      "address": "4961 Woodstock Road",
+      "city": "Woodstock",
+      "schoolname": "Woodstock Sr Uhs #4",
+      "principal": "Principal Garon Smail",
+      "district": "TBD",
+      "postalCode": "05091",
+      "state": "VT",
+      "county": "Windsor County"}},
+{"type": "Feature", "geometry": {"type": "Point","coordinates": [-72.545857, 43.613056
+      ]
+    },
+    "properties": {
+      "phoneFormatted": "(802) 457-1330",
+      "phone": "8024571330",
+      "address": "4961 Woodstock Road",
+      "city": "Woodstock",
+      "schoolname": "Woodstock Union Middle School",
+      "principal": "Principal Dana Peterson",
+      "district": "TBD",
+      "postalCode": "05091",
+      "state": "VT",
+      "county": "Windsor County"}},]};
