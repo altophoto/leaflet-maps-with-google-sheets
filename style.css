@@ -283,3 +283,257 @@ span.legend-icon {
 .ladder form, .ladder div {
   display: block;
 }
+
+#colors {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: #fff;
+  width: 150px;
+  padding:5px;
+}
+
+.leaflet-cluster-anim .leaflet-marker-icon, .leaflet-cluster-anim .leaflet-marker-shadow {
+      -webkit-transition: -webkit-transform 0.3s ease-out, opacity 0.3s ease-in;
+      -moz-transition: -moz-transform 0.3s ease-out, opacity 0.3s ease-in;
+      -o-transition: -o-transform 0.3s ease-out, opacity 0.3s ease-in;
+      transition: transform 0.3s ease-out, opacity 0.3s ease-in;
+    }
+
+    .leaflet-cluster-spider-leg {
+      /* stroke-dashoffset (duration and function) should match with leaflet-marker-icon transform in order to track it exactly */
+      -webkit-transition: -webkit-stroke-dashoffset 0.3s ease-out, -webkit-stroke-opacity 0.3s ease-in;
+      -moz-transition: -moz-stroke-dashoffset 0.3s ease-out, -moz-stroke-opacity 0.3s ease-in;
+      -o-transition: -o-stroke-dashoffset 0.3s ease-out, -o-stroke-opacity 0.3s ease-in;
+      transition: stroke-dashoffset 0.3s ease-out, stroke-opacity 0.3s ease-in;
+    }
+    .marker-cluster-small {
+      background-color: rgba(181, 226, 140, 0.6);
+      }
+    .marker-cluster-small div {
+      background-color: rgba(110, 204, 57, 0.6);
+      }
+
+    .marker-cluster-medium {
+      background-color: rgba(241, 211, 87, 0.6);
+      }
+    .marker-cluster-medium div {
+      background-color: rgba(240, 194, 12, 0.6);
+      }
+
+    .marker-cluster-large {
+      background-color: rgba(253, 156, 115, 0.6);
+      }
+    .marker-cluster-large div {
+      background-color: rgba(241, 128, 23, 0.6);
+      }
+
+      /* IE 6-8 fallback colors */
+    .leaflet-oldie .marker-cluster-small {
+      background-color: rgb(181, 226, 140);
+      }
+    .leaflet-oldie .marker-cluster-small div {
+      background-color: rgb(110, 204, 57);
+      }
+
+    .leaflet-oldie .marker-cluster-medium {
+      background-color: rgb(241, 211, 87);
+      }
+    .leaflet-oldie .marker-cluster-medium div {
+      background-color: rgb(240, 194, 12);
+      }
+
+    .leaflet-oldie .marker-cluster-large {
+      background-color: rgb(253, 156, 115);
+      }
+    .leaflet-oldie .marker-cluster-large div {
+      background-color: rgb(241, 128, 23);
+    }
+
+    .marker-cluster {
+      background-clip: padding-box;
+      border-radius: 20px;
+      }
+    .marker-cluster div {
+      width: 30px;
+      height: 30px;
+      margin-left: 5px;
+      margin-top: 5px;
+
+      text-align: center;
+      border-radius: 15px;
+      font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+      }
+    .marker-cluster span {
+      line-height: 30px;
+      }
+
+    .container {
+      display:flex;
+      height:100vh;
+      align-content:stretch;
+      background:#333;}
+      
+      #list {
+        flex:0 0 25%;
+        padding:0 1em;
+        box-sizing:border-box;
+        background:#dedede;
+        list-style:none;}
+        
+      li { margin-bottom:0.5em; }
+      
+      #map {
+        flex:0 0 75%;
+        margin:0 auto;
+        background: lightgrey;
+      }
+      body {
+        color:#404040;
+        font:400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+        margin:0;
+        padding:0;
+        -webkit-font-smoothing:antialiased;
+      }
+      
+      * {
+        -webkit-box-sizing:border-box;
+        -moz-box-sizing:border-box;
+        box-sizing:border-box;
+      }
+      
+      .sidebar {
+        position:absolute;
+        width:25%;
+        height:100%;
+        top:0;left:0;
+        overflow:hidden;
+        border-right:1px solid rgba(0,0,0,0.25);
+      }
+      .pad2 {
+        padding:20px;
+      }
+      
+      .map {
+        position:absolute;
+        left:25%;
+        width:75%;
+        top:0;bottom:0;
+      }
+      
+      h1 {
+        font-size:22px;
+        margin:0;
+        font-weight:400;
+        line-height: 20px;
+        padding: 20px 2px;
+      }
+      
+      a {
+        color:#404040;
+        text-decoration:none;
+      }
+      
+      a:hover {
+        color:#101010;
+      }
+      
+      .heading {
+        background:#fff;
+        border-bottom:1px solid #eee;
+        min-height:60px;
+        line-height:60px;
+        padding:0 10px;
+        background-color: #00853e;
+        color: #fff;
+      }
+      
+      .listings {
+        height:100%;
+        overflow:auto;
+        padding-bottom:60px;
+      }
+      
+      .listings .item {
+        display:block;
+        border-bottom:1px solid #eee;
+        padding:10px;
+        text-decoration:none;
+      }
+      
+      .listings .item:last-child { border-bottom:none; }
+      .listings .item .title {
+        display:block;
+        color:#00853e;
+        font-weight:700;
+      }
+      
+      .listings .item .title small { font-weight:400; }
+      .listings .item.active .title,
+      .listings .item .title:hover { color:#8cc63f; }
+      .listings .item.active {
+        background-color:#f8f8f8;
+      }
+          ::-webkit-scrollbar {
+        width: 3px;
+        height: 3px;
+        border-left: 0;
+        background: rgba(0, 0, 0, 0.1);
+      }
+
+      ::-webkit-scrollbar-track {
+        background: none;
+      }
+
+      ::-webkit-scrollbar-thumb {
+        background: #00853e;
+        border-radius: 0;
+      }
+
+      .marker {
+        border: none;
+        cursor: pointer;
+        height: 56px;
+        width: 56px;
+        background-image: url(marker.png);
+        background-color: rgba(0, 0, 0, 0);
+      }
+
+      .clearfix {
+        display: block;
+      }
+
+      .clearfix:after {
+        content: '.';
+        display: block;
+        height: 0;
+        clear: both;
+        visibility: hidden;
+      }
+      
+      .controls {
+        position: absolute;
+        top: 20px;
+        left: 0px;
+        right: 0px;
+      }
+      .controls2 {
+          position: absolute;
+          bottom: 30px;
+          left: 0px;
+          right: 0px;
+      }
+
+      r360-rainbow {
+          width: 420px;
+          margin: auto;    
+      }
+
+      r360-rainbow label {
+          display: inline-block;
+          font-size: 13px;
+          margin: 0;
+          padding: .5rem 0;
+          text-align: center;
+          color: rgba(255,255,255,.8);
+      }
