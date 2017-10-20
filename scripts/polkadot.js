@@ -1,24 +1,3 @@
-var app1 = document.getElementById('app1');
-// var app2 = document.getElementById('app2');
-// var app3 = document.getElementById('app3');
-angular.element(function() {
-  angular.bootstrap(app1, ['app1']);
-//  angular.bootstrap(app2, ['app2']);
-// angular.bootstrap(app3, ['app3']);
-});
-angular.module('app1',['ngMaterial', 'ng360'])
-  .controller("RainbowExampleController", function() {
-    var vm = this;
-    vm.rainbowConf = {
-        range: { times: [15] },
-        travelTime: 15,
-        colorRange: {
-            "name": "Green to Red",
-            "id": "default",
-            "colors": [/*"#509373", "#75c380", */"#abcf79"],
-            "opacities": [1.0]
-        }}
-  });
 var pixel = 9;
 
 var defaultTravelTimes = [900];
