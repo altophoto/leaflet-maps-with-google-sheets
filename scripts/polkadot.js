@@ -52,5 +52,4 @@ function onClick (marker, travelOptions) {
     polygonLayer.setStrokeWidth(10);
     polygonLayer.clearAndAddLayers(polygons, false);
   });
-});
-
+};
