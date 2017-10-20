@@ -73,26 +73,19 @@
 <body>
 
   <div class="loader">Loading...</div>
-  <!--
-  <div class='sidebar'>
-    <div class='heading'>
-      <h1>Vermont Schools</h1>
-     </div>
-     <div id='listings' class='listings'></div>
-   </div>-->
-      <div id='map'>Map</div>
-      <div id="app1">
-        <div 
-        ng-controller="RainbowExampleController as vm" 
-        class="controls" 
-        ng-cloak="" 
-        layout="column" 
-        layout-align="start end"
-        >
-          <r360-rainbow travel-time="vm.rainbowConf.travelTime" travel-time-range="vm.rainbowConf.range" color-range="vm.rainbowConf.colorRange">
-          </r360-rainbow>
-        </div>
-      </div>
+  <div id='map'>Map</div>
+  <div id="app1">
+    <div 
+    ng-controller="RainbowExampleController as vm" 
+    class="controls" 
+    ng-cloak="" 
+    layout="column" 
+    layout-align="start end"
+    >
+      <r360-rainbow travel-time="vm.rainbowConf.travelTime" travel-time-range="vm.rainbowConf.range" color-range="vm.rainbowConf.colorRange">
+      </r360-rainbow>
+    </div>
+  </div>
   <table id="maptable" class="display"></table>
 
   <script type="text/javascript">
