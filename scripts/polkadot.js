@@ -53,4 +53,4 @@ function onClick (marker, travelOptions) {
     polygonLayer.clearAndAddLayers(polygons, false);
   });
 });
-})
+)
