@@ -52,4 +52,5 @@ $('#leaflet-popup').on('click', '.trigger', function(marker, travelOptions) {
     polygonLayer.setStrokeWidth(10);
     polygonLayer.clearAndAddLayers(polygons, false);
   });
+});
 })
