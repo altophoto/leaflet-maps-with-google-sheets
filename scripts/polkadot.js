@@ -16,7 +16,8 @@ var showPolygons = function() {
   };
 
 // group.addTo(map)
-function onClick (marker, travelOptions) {
+$('#map').on('click', '.trigger', function(marker, travelOptions) {
+// function onClick (marker, travelOptions) {
   var defaultColors = r360.config.defaultTravelTimeControlOptions.travelTimes.filter(function(t){
     return defaultTravelTimes.indexOf(t.time) > -1;
   }).map(function(t){
