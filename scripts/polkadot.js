@@ -14,16 +14,31 @@ var showPolygons = function() {
     polygonLayer.setStrokeWidth(pixel);
 
   };
-var defaultColors = r360.config.defaultTravelTimeControlOptions.travelTimes.filter(function(t){
-  return defaultTravelTimes.indexOf(t.time) > -1;
-}).map(function(t){
-  return t.color;
-});
+
 // group.addTo(map)
-function onClick (lata, travelOptions) {
-  var { marker_id } = lata
-  var marker = group.getLayer(marker_id)
-  map.flyTo(marker.getLatLng(), 12);
+function onClick (marker, travelOptions) {
+  var defaultColors = r360.config.defaultTravelTimeControlOptions.travelTimes.filter(function(t){
+    return defaultTravelTimes.indexOf(t.time) > -1;
+  }).map(function(t){
+    return t.color;
+  });
+  var app1 = document.getElementById('app1');
+  angular.element(function() {
+     angular.bootstrap(app1, ['app1']);
+  });
+  angular.module('app1',['ngMaterial', 'ng360'])
+  .controller("RainbowExampleController", function() {
+    var vm = this;
+    vm.rainbowConf = {
+        range: { times: [15] },
+        travelTime: 15,
+        colorRange: {
+            "name": "Green to Red",
+            "id": "default",
+            "colors": [/*"#509373", "#75c380", */"#abcf79"],
+            "opacities": [1.0]
+        }}
+    });
   var polygonLayer = r360.leafletPolygonLayer()
   polygonLayer.addTo(map);
   var travelOptions = r360.travelOptions();
