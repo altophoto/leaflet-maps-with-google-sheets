@@ -132,10 +132,7 @@ $(window).on('load', function() {
                 '<img src="' + point['Image'] + '"><br>'
               ) : ''
             ) +
-          point['Description'] +
-            (
-              '<button class="trigger">' + 'Push' + '</button>'
-            )
+          point['Description']
           );
 
         if (layers !== undefined && layers.length !== 1) {
