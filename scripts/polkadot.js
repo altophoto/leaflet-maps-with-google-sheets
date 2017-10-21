@@ -1,4 +1,3 @@
-var pixel = 9
 
 var defaultTravelTimes = [900]
 
@@ -10,9 +9,9 @@ polygonLayer.setColors([
      // { 'time': 1500, 'opacity': 1.0, 'color': '#C1272D' },
      // ["#509373", "#75c380", "#abcf79"]
 ])
+polygonLayer.setStrokeWidth(9);
 
 $('#map').on('click', '.trigger', function onClick (marker, travelOptions) {
-  polygonLayer.setStrokeWidth(pixel)
   var polygonLayer = r360.leafletPolygonLayer()
   polygonLayer.addTo(map)
   var travelOptions = r360.travelOptions()
