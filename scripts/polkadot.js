@@ -15,11 +15,23 @@ var showPolygons = function() {
 
   };
 $('#map').on('click', '.trigger', function onClick (marker, travelOptions) {
-    alert('Hello from Toronto!');
+  var polygonLayer = r360.leafletPolygonLayer()
+  polygonLayer.addTo(map);
+  var travelOptions = r360.travelOptions();
+  travelOptions.setServiceKey('N2T7JHHPOTJAWSFQ7YOMJYH')
+  travelOptions.setServiceUrl('https://service.route360.net/na_northeast/')
+  travelOptions.addSource(marker);
+  travelOptions.setTravelTimes([900])
+  travelOptions.setTravelType('car');
+  r360.PolygonService.getTravelTimePolygons(travelOptions, function(polygons){
+    polygonLayer.setStrokeWidth(10);
+    polygonLayer.clearAndAddLayers(polygons, false);
+  });
+};
 });
 // group.addTo(map)
 //$('#leaflet-popup').on('click', '.trigger', function(marker, travelOptions) {
-function onClick (marker, travelOptions) {
+// function onClick (marker, travelOptions) {
   /*
      var defaultColors = r360.config.defaultTravelTimeControlOptions.travelTimes.filter(function(t){
     return defaultTravelTimes.indexOf(t.time) > -1;
@@ -39,23 +51,10 @@ function onClick (marker, travelOptions) {
         colorRange: {
             "name": "Green to Red",
             "id": "default",
-            "colors": [/*"#509373", "#75c380", */"#abcf79"],
+            "colors": [/*"#509373", "#75c380", "#abcf79"],
             "opacities": [1.0]
         }}
     });
 */
-  var polygonLayer = r360.leafletPolygonLayer()
-  polygonLayer.addTo(map);
-  var travelOptions = r360.travelOptions();
-  travelOptions.setServiceKey('N2T7JHHPOTJAWSFQ7YOMJYH')
-  travelOptions.setServiceUrl('https://service.route360.net/na_northeast/')
-  travelOptions.addSource(marker);
-  travelOptions.setTravelTimes([900])
-  travelOptions.setTravelType('car');
-  r360.PolygonService.getTravelTimePolygons(travelOptions, function(polygons){
-    polygonLayer.setStrokeWidth(10);
-    polygonLayer.clearAndAddLayers(polygons, false);
-  });
-};
 //);
 
