@@ -14,12 +14,12 @@ var showPolygons = function() {
     polygonLayer.setStrokeWidth(pixel);
 
   };
-$('#map').on('click', '.trigger', function() {
+$('#map').on('click', '.trigger', function(marker, travelOptions) {
     alert('Hello from Toronto!');
-});
+
 // group.addTo(map)
 //$('#leaflet-popup').on('click', '.trigger', function(marker, travelOptions) {
-function onClick (marker, travelOptions) {
+// function onClick (marker, travelOptions) {
   var defaultColors = r360.config.defaultTravelTimeControlOptions.travelTimes.filter(function(t){
     return defaultTravelTimes.indexOf(t.time) > -1;
   }).map(function(t){
@@ -56,3 +56,4 @@ function onClick (marker, travelOptions) {
   });
 };
 //);
+});
