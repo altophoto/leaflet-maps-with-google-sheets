@@ -9,7 +9,7 @@ polygonLayer.setColors([
      // { 'time': 1500, 'opacity': 1.0, 'color': '#C1272D' },
      // ["#509373", "#75c380", "#abcf79"]
 ])
-polygonLayer.setStrokeWidth(9);
+// polygonLayer.setStrokeWidth(9);
 
 $('#map').on('click', '.trigger', function onClick (marker, travelOptions) {
   var polygonLayer = r360.leafletPolygonLayer()
