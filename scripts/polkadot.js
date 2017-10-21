@@ -20,7 +20,8 @@ $('#map').on('click', '.trigger', function onClick (marker, travelOptions) {
 // group.addTo(map)
 //$('#leaflet-popup').on('click', '.trigger', function(marker, travelOptions) {
 function onClick (marker, travelOptions) {
-  var defaultColors = r360.config.defaultTravelTimeControlOptions.travelTimes.filter(function(t){
+  /*
+     var defaultColors = r360.config.defaultTravelTimeControlOptions.travelTimes.filter(function(t){
     return defaultTravelTimes.indexOf(t.time) > -1;
   }).map(function(t){
     return t.color;
@@ -42,6 +43,7 @@ function onClick (marker, travelOptions) {
             "opacities": [1.0]
         }}
     });
+*/
   var polygonLayer = r360.leafletPolygonLayer()
   polygonLayer.addTo(map);
   var travelOptions = r360.travelOptions();
