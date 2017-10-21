@@ -133,7 +133,9 @@ $(window).on('load', function() {
               ) : ''
             ) +
           point['Description'] +
-            ('<button class="trigger">Push</button>')
+            (
+              '<button class="trigger">' + 'Push' + '</button>'
+            )
           );
 
         if (layers !== undefined && layers.length !== 1) {
