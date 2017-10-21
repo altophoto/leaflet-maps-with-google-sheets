@@ -16,8 +16,8 @@ var showPolygons = function() {
   };
 
 // group.addTo(map)
-$('#leaflet-popup').on('click', '.trigger', function(marker, travelOptions) {
-// function onClick (marker, travelOptions) {
+//$('#leaflet-popup').on('click', '.trigger', function(marker, travelOptions) {
+function onClick (marker, travelOptions) {
   var defaultColors = r360.config.defaultTravelTimeControlOptions.travelTimes.filter(function(t){
     return defaultTravelTimes.indexOf(t.time) > -1;
   }).map(function(t){
@@ -52,4 +52,5 @@ $('#leaflet-popup').on('click', '.trigger', function(marker, travelOptions) {
     polygonLayer.setStrokeWidth(10);
     polygonLayer.clearAndAddLayers(polygons, false);
   });
-});
+};
+//);
