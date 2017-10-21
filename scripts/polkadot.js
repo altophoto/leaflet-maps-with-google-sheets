@@ -14,7 +14,9 @@ var showPolygons = function() {
     polygonLayer.setStrokeWidth(pixel);
 
   };
-
+$('#map').on('click', '.trigger', function() {
+    alert('Hello from Toronto!');
+});
 // group.addTo(map)
 //$('#leaflet-popup').on('click', '.trigger', function(marker, travelOptions) {
 function onClick (marker, travelOptions) {
